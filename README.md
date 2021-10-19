@@ -39,13 +39,13 @@ Students who violates academic integrity will get an F.
 ## Schedule
 |#|Topics|Reading|Homework|
 |-|------|-------|--------|
-|0|[Functional Programming in OCaml]||
-|1|[Introduction]||HW0: Hello-world|
-|2|[Inductive Synthesis]|HW1: OCaml Programming|
-|3|[Bottom Up Search]|||
-|4|[Top Down Search]||HW2: SmaLLVM Interpreter|
-|5|[Search with Probabilistic Model]||
-|6|[Version-Sapce Algebra]|[Chap. 4]|HW3: SmaLLVM Analyzer|
-|7|[Functional Synthesis]|[Chap. 8.1], [Chap. 8.2]||
-|8|[Counterexample-guided Inductive Synthesis]|[Chap. 5.2]HW4 : ThriLLVM Analyzer|
-|-|Final Exam||
+|0|Functional Programming in OCaml||
+|1|Introduction||HW0: Hello-world|
+|2|Inductive Synthesis|HW1: OCaml Programming|
+|3|Bottom Up Search|||
+|4|Top Down Search||HW2: SmaLLVM Interpreter|
+|5|Search with Probabilistic Model||
+|6|Version-Sapce Algebra|[Chap. 4]|HW3: SmaLLVM Analyzer|
+|7|Functional Synthesis|[Chap. 8.1], [Chap. 8.2]||
+|8|Counterexample-guided Inductive Synthesis|[ASPLOS2006](https://dl.acm.org/doi/10.1145/1168919.1168907)|
+|9|Program Synthesis for Security|[CCS2021](https://arxiv.org/abs/2109.07441) [UsenixSec2017](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/blazytko)|
