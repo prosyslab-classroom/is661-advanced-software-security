@@ -40,25 +40,26 @@ Students who violates academic integrity will get an F.
 |Week|Topics|Reading|Homework|
 |-|------|-------|--------|
 |0|Functional Programming in OCaml||
-|1|Preliminaries||HW0: Hello-world||
-| |Inductive Synthesis||HW1: OCaml Programming|
-|2|Bottom Up Search||Project1: Program Synthesizer|
-| |Top Down Search|||
-|3|Search with Probabilistic Model||HW2: Reading Critique ([PLDI2018](https://dl.acm.org/doi/10.1145/3296979.3192410))|
-| |Version-Sapce Algebra|||
-|4|Functional Synthesis||HW3: Reading Critique ([ASPLOS2006](https://dl.acm.org/doi/10.1145/1168919.1168907))|
-| |Counterexample-guided Inductive Synthesis||
-|5|Program Verification|||
+|1|||HW0: Hello-world||
+| |Preliminaries||HW1: OCaml Programming|
+|2|Inductive Synthesis|||
+| |Bottom Up Search||Project1: Program Synthesizer|
+|3|Top Down Search|||
+| |Search with Probabilistic Model||HW2: Reading Critique ([PLDI2018](https://dl.acm.org/doi/10.1145/3296979.3192410))|
+|4|Version-Sapce Algebra|||
+| |Functional Synthesis||HW3: Reading Critique ([ASPLOS2006](https://dl.acm.org/doi/10.1145/1168919.1168907))|
+|5|Counterexample-guided Inductive Synthesis||
+|6|Program Verification|||
 | |TBD|||
-|6|TBD||HW4: Program Verifier|
+|7|TBD||HW4: Program Verifier|
 | |TBD|||
 |8|No Classes (Midterm week)|||
 |9|Midterm Project Presentation (1)||HW5: Final Project Proposal|
 |10|Midterm Project Presentation (2)|||
 |11|Proposal Review & Discussion|||
 |  |Proposal Presentation||Project2: Final Project|
-|12|TBD|||
-|13|TBD|||
+|12|Paper Presentation (1)|||
+|13|Paper Presentation (2)|||
 |14|Final Project Presentation (1)|||
 |15|Final Project Presentation (2)|||
 
