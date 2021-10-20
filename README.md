@@ -37,15 +37,31 @@ The late homework policy is as follows:
 Students who violates academic integrity will get an F.
 
 ## Schedule
-|#|Topics|Reading|Homework|
+|Week|Topics|Reading|Homework|
 |-|------|-------|--------|
 |0|Functional Programming in OCaml||
-|1|Introduction||HW0: Hello-world|
-|2|Inductive Synthesis|HW1: OCaml Programming|
-|3|Bottom Up Search|||
-|4|Top Down Search||HW2: SmaLLVM Interpreter|
-|5|Search with Probabilistic Model||
-|6|Version-Sapce Algebra|[Chap. 4]|HW3: SmaLLVM Analyzer|
-|7|Functional Synthesis|[Chap. 8.1], [Chap. 8.2]||
-|8|Counterexample-guided Inductive Synthesis|[ASPLOS2006](https://dl.acm.org/doi/10.1145/1168919.1168907)|
-|9|Program Synthesis for Security|[CCS2021](https://arxiv.org/abs/2109.07441) [UsenixSec2017](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/blazytko)|
+|1|Preliminaries||HW0: Hello-world||
+| |Inductive Synthesis||HW1: OCaml Programming|
+|2|Bottom Up Search||Project1: Program Synthesizer|
+| |Top Down Search|||
+|3|Search with Probabilistic Model||HW2: Reading Critique ([PLDI2018](https://dl.acm.org/doi/10.1145/3296979.3192410))|
+| |Version-Sapce Algebra|||
+|4|Functional Synthesis||HW3: Reading Critique ([ASPLOS2006](https://dl.acm.org/doi/10.1145/1168919.1168907))|
+| |Counterexample-guided Inductive Synthesis||
+|5|Program Verification|||
+| |TBD|||
+|6|TBD||HW4: Program Verifier|
+| |TBD|||
+|8|No Classes (Midterm week)|||
+|9|Midterm Project Presentation (1)||HW5: Final Project Proposal|
+|10|Midterm Project Presentation (2)|||
+|11|Proposal Review & Discussion|||
+|  |Proposal Presentation||Project2: Final Project|
+|12|TBD|||
+|13|TBD|||
+|14|Final Project Presentation (1)|||
+|15|Final Project Presentation (2)|||
+
+## Related Papers
+- [CCS2021](https://arxiv.org/abs/2109.07441)
+- [UsenixSec2017](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/blazytko)
