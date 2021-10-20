@@ -8,8 +8,19 @@
 - Location:
 
 ## Course Description
+The main theme of this course is __"the relationship between specification and program"__ for safe and reliable software. 
+This course will cover two topics under the theme:
+1. program verification: how to automatically prove whether if a given program satisfies the specification,
+2. program synthesis: how to automatically generate a program that satisfies the specification.
+
+Students will learn theories and practices of program verification and synthesis through lectures, assignments, and term projects.
+This course will be highly interactive and involve a significant amount of academic communication including reading, writing, and presentations.
 
 ## Grading
+- Assignments: 20%
+- Midterm project: 30%
+- Final project: 40%
+- Participation: 10%
 
 ## Textbook
 - Lecture slides will be provided
@@ -31,7 +42,17 @@ The late homework policy is as follows:
 - 50% credit for two days late
 - NO credit given after two days late
 
-## Project
+## Presentation
+- Each student is required to give 4 presentations (midterm project, final project proposal, final project result, and paper presentation).
+- Each student is required to give at least 1 question for each student presentation.
+
+## Projects
+- Midterm project: each student will design and implement an advanced program synthesizer.
+  - Presentation: students will present their own idea to advance a naive program synthesizer.
+- Final project: each student will define and solve your own problem related to program synthesis or program verification.
+  - Proposal writing: students will submit their project proposal that will be reviewed by other students, TAs, and instructors.
+  - Proposal presentation: students will present their plans for the project and rebut criticisms from reviewers.
+  - Final presentation: students will present their resultss.
 
 ## Academic Integrity Violation
 Students who violates academic integrity will get an F.
@@ -40,7 +61,7 @@ Students who violates academic integrity will get an F.
 |Week|Topics|Reading|Homework|
 |-|------|-------|--------|
 |0|Functional Programming in OCaml||
-|1|||HW0: Hello-world||
+|1|Introduction||HW0: Hello-world||
 | |Preliminaries||HW1: OCaml Programming|
 |2|Inductive Synthesis|||
 | |Bottom Up Search||Project1: Program Synthesizer|
