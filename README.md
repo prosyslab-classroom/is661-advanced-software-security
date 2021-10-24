@@ -72,7 +72,7 @@ Students who violates academic integrity will get an F.
 |5|Counterexample-guided Inductive Synthesis||
 |6|Program Verification|||
 | |Hoar logic|||
-|7|Verification conditions||HW4: Reading Critique ([SNP2020](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf)|
+|7|Verification conditions||HW4: Reading Critique ([SNP2020](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf))|
 | |Contrained Horn Clauses||HW5: Program Verifier|
 |8|No Classes (Midterm week)|||
 |9|Midterm Project Presentation (1)||HW6: Final Project Proposal|
