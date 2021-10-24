@@ -71,11 +71,11 @@ Students who violates academic integrity will get an F.
 | |Functional Synthesis||HW3: Reading Critique ([ASPLOS2006](https://dl.acm.org/doi/10.1145/1168919.1168907))|
 |5|Counterexample-guided Inductive Synthesis||
 |6|Program Verification|||
-| |TBD|||
-|7|TBD||HW4: Program Verifier|
-| |TBD|||
+| |Hoar logic|||
+|7|Verification conditions||HW4: Reading Critique ([SNP2020](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf)|
+| |Contrained Horn Clauses||HW5: Program Verifier|
 |8|No Classes (Midterm week)|||
-|9|Midterm Project Presentation (1)||HW5: Final Project Proposal|
+|9|Midterm Project Presentation (1)||HW6: Final Project Proposal|
 |10|Midterm Project Presentation (2)|||
 |11|Proposal Review & Discussion|||
 |  |Proposal Presentation||Project2: Final Project|
