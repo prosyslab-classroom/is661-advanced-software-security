@@ -84,7 +84,8 @@ Students who violates academic integrity will get an F.
 |14|Final Project Presentation (1)|||
 |15|Final Project Presentation (2)|||
 
-## Related Papers
+## Related Papers / Articles
 - [CCS2021](https://arxiv.org/abs/2109.07441)
 - [UsenixSec2017](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/blazytko)
 - [ICSE2021](https://ieeexplore.ieee.org/document/9402113)
+- [프로그램 합성, 보안, 그리고 인공지능](https://www.boannews.com/media/view.asp?idx=92658)
