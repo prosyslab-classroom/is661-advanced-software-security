@@ -84,8 +84,17 @@ Students who violates academic integrity will get an F.
 |14|Final Project Presentation (1)|||
 |15|Final Project Presentation (2)|||
 
-## Related Papers / Articles
-- [CCS2021](https://arxiv.org/abs/2109.07441)
-- [UsenixSec2017](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/blazytko)
-- [ICSE2021](https://ieeexplore.ieee.org/document/9402113)
+## Papers 
+### Program Synthesis
+- [DPGen: Automated Program Synthesis for Differential Privacy, CCS'21](https://arxiv.org/abs/2109.07441)
+- [Syntia: Synthesizing the Semantics of Obfuscated Code, UsenixSec'17](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/blazytko)
+- [Data-Driven Synthesis of Provably Sound Side Channel Analyses, ICSE'21](https://ieeexplore.ieee.org/document/9402113)
+- [An Inductive Synthesis Framework for Verifiable Reinforcement Learning, PLDI'19](https://dl.acm.org/doi/10.1145/3314221.3314638)
+- [Optimizing Homomorphic Evaluation Circuits by Program Synthesis and Term Rewriting, PLDI'20](https://dl.acm.org/doi/abs/10.1145/3385412.3385996)
+- [Synthesizing Highly Expressive SQL Queries from Input-Output Examples, PLDI'17](https://dl.acm.org/doi/10.1145/3062341.3062365)
+
+### Program Verification
+- [Alive2: bounded translation validation for LLVM, PLDI'21](https://dl.acm.org/doi/10.1145/3453483.3454030)
+
+## Articles
 - [프로그램 합성, 보안, 그리고 인공지능](https://www.boannews.com/media/view.asp?idx=92658)
