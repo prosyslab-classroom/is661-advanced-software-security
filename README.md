@@ -55,7 +55,7 @@ The late homework policy is as follows:
   - Final presentation: students will present their resultss.
 
 ## Academic Integrity Violation
-Students who violates academic integrity will get an F.
+Students who violates academic integrity will get F.
 
 ## Schedule
 |Week|Topics|Reading|Homework|
