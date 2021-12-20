@@ -101,3 +101,4 @@ Students who violates academic integrity will get F.
 
 ## Articles
 - [프로그램 합성, 보안, 그리고 인공지능](https://www.boannews.com/media/view.asp?idx=92658)
+- [Neural network verification: Where are we and where do we go from here?](https://blog.sigplan.org/2021/11/04/neural-network-verification-where-are-we-and-where-do-we-go-from-here/)
