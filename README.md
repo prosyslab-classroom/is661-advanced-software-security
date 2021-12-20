@@ -81,9 +81,9 @@ Students who violates academic integrity will get F.
 |10|Paper Presentation (1)|||
 |11|Paper Presentation (2)|||
 |12|Paper Presentation (3)|||
-|13|Paper Presentation (4)|||
-|14|Final Project Presentation (1)|||
-|15|Final Project Presentation (2)|||
+|13|Final Project Presentation (1)|||
+|14|Final Project Presentation (2)|||
+|15|Final Project Presentation (3)|||
 
 ## Papers 
 ### Program Synthesis
