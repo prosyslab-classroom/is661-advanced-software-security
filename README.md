@@ -94,7 +94,10 @@ Students who violates academic integrity will get F.
 - [Synthesizing Highly Expressive SQL Queries from Input-Output Examples, PLDI'17](https://dl.acm.org/doi/10.1145/3062341.3062365)
 
 ### Program Verification
+- [Verifying Correct Usage of Context-Free API Protocols, POPL'19](https://dl.acm.org/doi/10.1145/3434298)
+- [Verified Three-Way Program Merge, OOPSLA'18](https://dl.acm.org/doi/10.1145/3276535)
 - [Alive2: bounded translation validation for LLVM, PLDI'21](https://dl.acm.org/doi/10.1145/3453483.3454030)
+- [Reluplex: An efficient SMT solver for verifying deep neural networks, CAV'17](https://link.springer.com/chapter/10.1007/978-3-319-63387-9_5)
 
 ## Articles
 - [프로그램 합성, 보안, 그리고 인공지능](https://www.boannews.com/media/view.asp?idx=92658)
