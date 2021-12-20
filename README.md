@@ -66,7 +66,7 @@ Students who violates academic integrity will get F.
 |2|Inductive Synthesis|||
 | |Bottom Up Search||Project1: Program Synthesizer|
 |3|Top Down Search||HW2: Reading Critique ([PLDI2018](https://dl.acm.org/doi/10.1145/3296979.3192410))|
-| |Version-Sapce Algebra|||
+| |Version-Space Algebra|||
 |4|Functional Synthesis||HW3: Reading Critique ([ASPLOS2006](https://dl.acm.org/doi/10.1145/1168919.1168907))|
 | |Counterexample-guided Inductive Synthesis||
 |5|Program Verification|||
