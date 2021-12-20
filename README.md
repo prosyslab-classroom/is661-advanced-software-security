@@ -3,15 +3,15 @@
 ## Logistics
 - Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@kaist.ac.kr)
 - TAs:
-- Time:
-- Office hour:
-- Location:
+- Time: Tue/Thr 09:00 - 10:15
+- Office hour: Tue 10:15 - 11:00 (by appointment)
+- Location: N5 2243
 
 ## Course Description
 The main theme of this course is __"the relationship between specification and program"__ for safe and reliable software. 
 This course will cover two topics under the theme:
-1. program verification: how to automatically prove whether if a given program satisfies the specification,
-2. program synthesis: how to automatically generate a program that satisfies the specification.
+1. **program verification**: how to automatically _prove_ whether if a given program satisfies the specification,
+2. **program synthesis**: how to automatically _generate_ a program that satisfies the specification.
 
 Students will learn theories and practices of program verification and synthesis through lectures, assignments, and term projects.
 This course will be highly interactive and involve a significant amount of academic communication including reading, writing, and presentations.
