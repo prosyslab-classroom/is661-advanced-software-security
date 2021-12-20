@@ -65,22 +65,23 @@ Students who violates academic integrity will get F.
 | |Preliminaries||HW1: OCaml Programming|
 |2|Inductive Synthesis|||
 | |Bottom Up Search||Project1: Program Synthesizer|
-|3|Top Down Search|||
-| |Search with Probabilistic Model||HW2: Reading Critique ([PLDI2018](https://dl.acm.org/doi/10.1145/3296979.3192410))|
-|4|Version-Sapce Algebra|||
-| |Functional Synthesis||HW3: Reading Critique ([ASPLOS2006](https://dl.acm.org/doi/10.1145/1168919.1168907))|
-|5|Counterexample-guided Inductive Synthesis||
-|6|Program Verification|||
+|3|Top Down Search||HW2: Reading Critique ([PLDI2018](https://dl.acm.org/doi/10.1145/3296979.3192410))|
+| |Version-Sapce Algebra|||
+|4|Functional Synthesis||HW3: Reading Critique ([ASPLOS2006](https://dl.acm.org/doi/10.1145/1168919.1168907))|
+| |Counterexample-guided Inductive Synthesis||
+|5|Program Verification|||
 | |Hoar logic|||
-|7|Verification conditions||HW4: Reading Critique ([SNP2020](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf))|
+|6|Verification conditions||HW4: Reading Critique ([SNP2020](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf))|
 | |Contrained Horn Clauses||HW5: Reading Critique ([PLDI2020](https://www.cs.utexas.edu/~hovav/dist/vera.pdf))|
+|7|Midterm Project Presentation (1)|||
+| |Midterm Project Presentation (2)||[HW7: Final Project Proposal](https://kaist-asos22.hotcrp.com)|
 |8|No Classes (Midterm week)||HW6: Program Verifier|
-|9|Midterm Project Presentation (1)||[HW7: Final Project Proposal](https://kaist-asos22.hotcrp.com)|
-|10|Midterm Project Presentation (2)|||
-|11|Proposal Review & Discussion|||
-|  |Proposal Presentation||Project2: Final Project|
-|12|Paper Presentation (1)|||
-|13|Paper Presentation (2)|||
+|9|Proposal Review & Discussion|||
+| |Proposal Presentation||Project2: Final Project|
+|10|Paper Presentation (1)|||
+|11|Paper Presentation (2)|||
+|12|Paper Presentation (3)|||
+|13|Paper Presentation (4)|||
 |14|Final Project Presentation (1)|||
 |15|Final Project Presentation (2)|||
 
