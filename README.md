@@ -73,7 +73,7 @@ Students who violates academic integrity will get F.
 | |Hoar logic|||
 |6|Verification conditions||HW4: Reading Critique ([SNP2020](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf))|
 | |Contrained Horn Clauses||HW5: Reading Critique ([PLDI2020](https://www.cs.utexas.edu/~hovav/dist/vera.pdf))|
-|7|Midterm Project Presentation (1)||[HW6: Program Verifier]|
+|7|Midterm Project Presentation (1)||HW6: Program Verifier|
 | |Midterm Project Presentation (2)|||
 |8|No Classes (Midterm week)||[HW7: Final Project Proposal](https://kaist-asos22.hotcrp.com)|
 |9|Proposal Review & Discussion|||
