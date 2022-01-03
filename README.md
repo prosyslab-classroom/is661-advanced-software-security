@@ -62,19 +62,19 @@ Students who violate academic integrity will get F.
 |-|------|-------|--------|
 |0|Functional Programming in OCaml||
 |1|Introduction||HW0: Hello-world||
-| |Preliminaries||HW1: OCaml Programming|
-|2|Inductive Synthesis|||
-| |Bottom Up Search||Project1: Program Synthesizer|
-|3|Top Down Search||HW2: Reading Critique ([PLDI2018](https://dl.acm.org/doi/10.1145/3296979.3192410))|
-| |Version-Space Algebra|||
-|4|Functional Synthesis||HW3: Reading Critique ([ASPLOS2006](https://dl.acm.org/doi/10.1145/1168919.1168907))|
-| |Counterexample-guided Inductive Synthesis||
-|5|Program Verification||HW4: Reading Critique ([SNP2020](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf))|
-| |Hoar logic|||
-|6|Verification conditions||HW5: Reading Critique ([PLDI2020](https://www.cs.utexas.edu/~hovav/dist/vera.pdf))|
-| |Contrained Horn Clauses|||
-|7|Midterm Project Presentation (1)||HW6: Program Verifier|
-| |Midterm Project Presentation (2)|||
+| |Inductive Synthesis||HW1: OCaml Programming|
+|2|Bottom Up Search|||
+| |Top Down Search||Project1: Program Synthesizer|
+|3|Version-Space Algebra||HW2: Reading Critique ([PLDI2018](https://dl.acm.org/doi/10.1145/3296979.3192410))|
+| |Functional Synthesis|||
+|4|Counterexample-guided Inductive Synthesis||HW3: Reading Critique ([ASPLOS2006](https://dl.acm.org/doi/10.1145/1168919.1168907))|
+| |Program Verification||
+|5|Hoar logic||HW4: Reading Critique ([SNP2020](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf))|
+| |Verification conditions|||
+|6|Contrained Horn Clauses||HW5: Reading Critique ([PLDI2020](https://www.cs.utexas.edu/~hovav/dist/vera.pdf))|
+| |Midterm Project Presentation (1)|||
+|7|Midterm Project Presentation (2)||HW6: Program Verifier|
+| |Midterm Project Presentation (3)|||
 |8|No Classes (Midterm week)||[HW7: Final Project Proposal](https://kaist-asos22.hotcrp.com)|
 |9|Proposal Review & Discussion|||
 | |Proposal Presentation||Project2: Final Project|
