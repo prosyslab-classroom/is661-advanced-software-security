@@ -51,11 +51,11 @@ The late homework policy is as follows:
   - Presentation: students will present their own idea to advance a naive program synthesizer.
 - Final project: each student will define and solve your own problem related to program synthesis or program verification.
   - Proposal writing: students will submit their project proposal that will be reviewed by other students, TAs, and instructors.
-  - Proposal presentation: students will present their plans for the project and rebut criticisms from reviewers.
-  - Final presentation: students will present their resultss.
+  - Proposal presentation: students will present their plans for the project and rebut criticism from reviewers.
+  - Final presentation: students will present their results.
 
 ## Academic Integrity Violation
-Students who violates academic integrity will get F.
+Students who violate academic integrity will get F.
 
 ## Schedule
 |Week|Topics|Reading|Homework|
