@@ -61,8 +61,8 @@ Students who violate academic integrity will get F.
 |Week|Topics|Reading|Homework|
 |-|------|-------|--------|
 |0|Functional Programming in OCaml||
-|1|Introduction||HW0: Hello-world||
-| |Inductive Synthesis||HW1: OCaml Programming|
+|1|Introduction||HW0: OCaml Programming||
+| |Inductive Synthesis||HW1: Reading Critique ([Wired2021](https://www.wired.com/story/ai-write-code-like-humans-bugs/?fbclid=IwAR3kO0xXVzeTABqGscyPPYcPYuVu2fSHYSEiBpMCoKTWXKZl1Ah9H6TVGHM&mbid=social_facebook&utm_brand=wired&utm_campaign=falcon&utm_medium=social&utm_social-type=owned))|
 |2|Bottom Up Search|||
 | |Top Down Search||Project1: Program Synthesizer|
 |3|Version-Space Algebra||HW2: Reading Critique ([PLDI2018](https://dl.acm.org/doi/10.1145/3296979.3192410))|
@@ -103,5 +103,4 @@ Students who violate academic integrity will get F.
 
 ## Articles
 - [프로그램 합성, 보안, 그리고 인공지능](https://www.boannews.com/media/view.asp?idx=92658)
-- [AI Can Write Code like Humans -- Bugs and All](https://www.wired.com/story/ai-write-code-like-humans-bugs/?fbclid=IwAR3kO0xXVzeTABqGscyPPYcPYuVu2fSHYSEiBpMCoKTWXKZl1Ah9H6TVGHM&mbid=social_facebook&utm_brand=wired&utm_campaign=falcon&utm_medium=social&utm_social-type=owned&utm_source=facebook)
 - [Neural network verification: Where are we and where do we go from here?](https://blog.sigplan.org/2021/11/04/neural-network-verification-where-are-we-and-where-do-we-go-from-here/)
