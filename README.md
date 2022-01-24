@@ -84,7 +84,7 @@ Students who violate academic integrity will get F.
 |13|Final Project Presentation (1)|||
 |14|Final Project Presentation (2)|||
 |15|Final Project Presentation (3)|||
-|16|No Classes (Final week)||[HW7: Final Project Proposal](https://kaist-asos22.hotcrp.com)|
+|16|No Classes (Final week)|||
 
 ## Papers 
 ### Program Synthesis
