@@ -64,10 +64,10 @@ Students who violate academic integrity will get F.
 |1|Introduction||HW0: OCaml Programming||
 | |Inductive Synthesis||HW1: Reading Critique ([Wired2021](https://www.wired.com/story/ai-write-code-like-humans-bugs/?fbclid=IwAR3kO0xXVzeTABqGscyPPYcPYuVu2fSHYSEiBpMCoKTWXKZl1Ah9H6TVGHM&mbid=social_facebook&utm_brand=wired&utm_campaign=falcon&utm_medium=social&utm_social-type=owned))|
 |2|Bottom Up Search|||
-| |Top Down Search||Project1: Program Synthesizer|
-|3|Version-Space Algebra||HW2: Reading Critique ([PLDI2018](https://dl.acm.org/doi/10.1145/3296979.3192410))|
+| |Top Down Search||HW2: Program Synthesizer|
+|3|Version-Space Algebra||HW3: Reading Critique ([PLDI2018](https://dl.acm.org/doi/10.1145/3296979.3192410))|
 | |Functional Synthesis|||
-|4|Counterexample-guided Inductive Synthesis||HW3: Reading Critique ([ASPLOS2006](https://dl.acm.org/doi/10.1145/1168919.1168907))|
+|4|Counterexample-guided Inductive Synthesis|||
 | |Program Verification||
 |5|Hoare logic||HW4: Reading Critique ([SNP2020](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf))|
 | |Verification conditions|||
@@ -77,7 +77,7 @@ Students who violate academic integrity will get F.
 | |Midterm Project Presentation (3)|||
 |8|No Classes (Midterm week)||[HW7: Final Project Proposal](https://kaist-asos22.hotcrp.com)|
 |9|Proposal Review & Discussion|||
-| |Proposal Presentation||Project2: Final Project|
+| |Proposal Presentation||Final Project|
 |10|Paper Presentation (1)|||
 |11|Paper Presentation (2)|||
 |12|Paper Presentation (3)|||
@@ -94,6 +94,7 @@ Students who violate academic integrity will get F.
 - [An Inductive Synthesis Framework for Verifiable Reinforcement Learning, PLDI'19](https://dl.acm.org/doi/10.1145/3314221.3314638)
 - [Optimizing Homomorphic Evaluation Circuits by Program Synthesis and Term Rewriting, PLDI'20](https://dl.acm.org/doi/abs/10.1145/3385412.3385996)
 - [Synthesizing Highly Expressive SQL Queries from Input-Output Examples, PLDI'17](https://dl.acm.org/doi/10.1145/3062341.3062365)
+- [Combinatorial sketching for finite programs, ASPLOS'06](https://dl.acm.org/doi/10.1145/1168919.1168907)
 
 ### Program Verification
 - [Verifying Correct Usage of Context-Free API Protocols, POPL'19](https://dl.acm.org/doi/10.1145/3434298)
