@@ -69,7 +69,7 @@ Students who violate academic integrity will get F.
 | |Functional Synthesis|||
 |4|Counterexample-guided Inductive Synthesis||HW3: Reading Critique ([ASPLOS2006](https://dl.acm.org/doi/10.1145/1168919.1168907))|
 | |Program Verification||
-|5|Hoar logic||HW4: Reading Critique ([SNP2020](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf))|
+|5|Hoare logic||HW4: Reading Critique ([SNP2020](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf))|
 | |Verification conditions|||
 |6|Contrained Horn Clauses||HW5: Reading Critique ([PLDI2020](https://www.cs.utexas.edu/~hovav/dist/vera.pdf))|
 | |Midterm Project Presentation (1)|||
