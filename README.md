@@ -1,4 +1,4 @@
-# IS893: Advanced Software Security
+# IS593: Advanced Software Security
 
 ## Logistics
 - Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@kaist.ac.kr)
