@@ -62,15 +62,15 @@ Students who violate academic integrity will get F.
 |-|------|-------|--------|
 |0|Functional Programming in OCaml||
 |1|Introduction||HW0: OCaml Programming||
-| |Inductive Synthesis||HW1: Reading Critique ([Wired2021](https://www.wired.com/story/ai-write-code-like-humans-bugs/?fbclid=IwAR3kO0xXVzeTABqGscyPPYcPYuVu2fSHYSEiBpMCoKTWXKZl1Ah9H6TVGHM&mbid=social_facebook&utm_brand=wired&utm_campaign=falcon&utm_medium=social&utm_social-type=owned))|
-|2|Bottom Up Search|||
-| |Top Down Search||HW2: Program Synthesizer|
-|3|Version-Space Algebra||HW3: Reading Critique ([PLDI2018](https://dl.acm.org/doi/10.1145/3296979.3192410))|
-| |Functional Synthesis|||
-|4|Counterexample-guided Inductive Synthesis|||
-| |Program Verification||
-|5|Hoare logic||HW4: Reading Critique ([SNP2020](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf))|
-| |Verification conditions|||
+| |Introduction to Program Synthesis||HW1: Reading Critique ([Wired2021](https://www.wired.com/story/ai-write-code-like-humans-bugs/?fbclid=IwAR3kO0xXVzeTABqGscyPPYcPYuVu2fSHYSEiBpMCoKTWXKZl1Ah9H6TVGHM&mbid=social_facebook&utm_brand=wired&utm_campaign=falcon&utm_medium=social&utm_social-type=owned))|
+|2|Inductive Synthesis and Enumerative Search|||
+| |Search Space Pruning||HW2: Program Synthesizer|
+|3|Search Space Prioritization||HW3: Reading Critique ([PLDI2018](https://dl.acm.org/doi/10.1145/3296979.3192410))|
+| |Representation-based Search|||
+|4|Introduction to Program Verification|||
+| |First-order Logic||
+|5|Hoare Logic||HW4: Reading Critique ([SNP2020](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf))|
+| |Verification Conditions|||
 |6|Contrained Horn Clauses||HW5: Reading Critique ([PLDI2020](https://www.cs.utexas.edu/~hovav/dist/vera.pdf))|
 | |Midterm Project Presentation (1)|||
 |7|Midterm Project Presentation (2)||HW6: Program Verifier|
