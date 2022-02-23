@@ -1,10 +1,13 @@
-FROM ubuntu:18.04
+FROM ubuntu:20.04
 
 RUN apt-get update && \
     apt-get upgrade -y && \
     apt-get install -y software-properties-common && \
     add-apt-repository -y ppa:avsm/ppa && \
-    apt-get install -y make git gcc ocaml opam pkg-config m4 cmake sudo python2.7
+    apt-get install -y make git gcc ocaml opam pkg-config m4 cmake sudo python2.7 z3
+
+RUN curl -s https://packagecloud.io/install/repositories/souffle-lang/souffle/script.deb.sh | bash
+RUN apt-get install -y souffle
 
 ENV HOME=/home/student
 
