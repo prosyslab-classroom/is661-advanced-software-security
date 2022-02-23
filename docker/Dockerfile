@@ -4,7 +4,7 @@ RUN apt-get update && \
     apt-get upgrade -y && \
     apt-get install -y software-properties-common && \
     add-apt-repository -y ppa:avsm/ppa && \
-    apt-get install -y make git gcc ocaml opam pkg-config m4 cmake sudo python2.7 z3
+    apt-get install -y make git gcc ocaml opam pkg-config m4 cmake sudo python2.7 libgmp-dev python3-distutils
 
 RUN curl -s https://packagecloud.io/install/repositories/souffle-lang/souffle/script.deb.sh | bash
 RUN apt-get install -y souffle
