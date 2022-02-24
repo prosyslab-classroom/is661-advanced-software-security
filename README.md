@@ -56,6 +56,7 @@ The late homework policy is as follows:
 
 ## Academic Integrity Violation
 Students who violate academic integrity will get F.
+See [the KAIST CS hornor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEvq6R0G6n3Cz7jKX16RWvDy2giBKm8EVJtQHUBJoDA/viewform).
 
 ## Schedule
 |Week|Topics|Reading|Homework|
