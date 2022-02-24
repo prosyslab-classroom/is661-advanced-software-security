@@ -2,7 +2,9 @@
 
 ## Logistics
 - Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@kaist.ac.kr)
-- TAs:
+- TAs (mailing list: is593.ta@prosys.kr)
+  - Hyunsu Kim (hyunsu.kim00@kaist.ac.kr)
+  - Seungwan Kwon (seungwan.kwon@kaist.ac.kr)
 - Time: Tue/Thr 09:00 - 10:15
 - Office hour: Tue 10:15 - 11:00 (by appointment)
 - Location: N5 2243
