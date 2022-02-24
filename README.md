@@ -28,6 +28,7 @@ This course will be highly interactive and involve a significant amount of acade
 - Lecture slides will be provided
 - [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf)
 - [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm)
+- [The Calculus of Computation](https://www.amazon.com/Calculus-Computation-Procedures-Applications-Verification/dp/3540741127)
 
 ## Homework
 This course includes programming assignments through which students will learn how to design
