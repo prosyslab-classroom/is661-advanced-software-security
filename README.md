@@ -32,7 +32,7 @@ This course will be highly interactive and involve a significant amount of acade
 
 ## Homework
 This course includes programming assignments through which students will learn how to design
-and implement program analyzers.
+and implement program synthesizer and program verifier.
 Students will use a few tools which are described [here](TOOL.md).
 
 All submissions will be managed using Github.
