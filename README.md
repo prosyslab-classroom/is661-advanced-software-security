@@ -10,7 +10,7 @@
 - Location: N5 2243
 
 ## Course Description
-The main theme of this course is __"the relationship between specification and program"__ for safe and reliable software. 
+The main theme of this course is __"the relationship between specification and program"__ for safe and reliable software.
 This course will cover two topics under the theme:
 1. **program verification**: how to automatically _prove_ whether a given program satisfies the specification,
 2. **program synthesis**: how to automatically _generate_ a program that satisfies the specification.
@@ -64,8 +64,8 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 ## Schedule
 |Week|Topics|Reading|Homework|
 |-|------|-------|--------|
-|0|Functional Programming in OCaml||
-|1|Introduction||HW0: OCaml Programming||
+|0|[Functional Programming in OCaml](slides/lecture0.pdf)||
+|1|[Introduction](slides/lecture1.pdf)||HW0: OCaml Programming||
 | |Introduction to Program Synthesis||HW1: Reading Critique ([Wired2021](https://www.wired.com/story/ai-write-code-like-humans-bugs/?fbclid=IwAR3kO0xXVzeTABqGscyPPYcPYuVu2fSHYSEiBpMCoKTWXKZl1Ah9H6TVGHM&mbid=social_facebook&utm_brand=wired&utm_campaign=falcon&utm_medium=social&utm_social-type=owned))|
 |2|Inductive Synthesis and Enumerative Search|||
 | |Search Space Pruning||HW2: Program Synthesizer|
@@ -90,7 +90,7 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |15|Final Project Presentation (3)|||
 |16|No Classes (Final week)|||
 
-## Papers 
+## Papers
 ### Program Synthesis
 - [DPGen: Automated Program Synthesis for Differential Privacy, CCS'21](https://arxiv.org/abs/2109.07441)
 - [Syntia: Synthesizing the Semantics of Obfuscated Code, USENIXSEC'17](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/blazytko)
@@ -113,4 +113,4 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 - [프로그램 합성, 보안, 그리고 인공지능](https://www.boannews.com/media/view.asp?idx=92658)
 
 ## Acknowlegement
-A large part of the slides is based on the lecture notes by Nadia Polikarpova and Woosuk Lee. 
+A large part of the slides is based on the lecture notes by Nadia Polikarpova and Woosuk Lee.
