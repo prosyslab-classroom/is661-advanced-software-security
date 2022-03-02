@@ -66,16 +66,16 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |-|------|-------|--------|
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)||
 |1|[Introduction](slides/lecture1.pdf)||HW0: OCaml Programming||
-| |Introduction to Program Synthesis||HW1: Reading Critique ([Wired2021](https://www.wired.com/story/ai-write-code-like-humans-bugs/?fbclid=IwAR3kO0xXVzeTABqGscyPPYcPYuVu2fSHYSEiBpMCoKTWXKZl1Ah9H6TVGHM&mbid=social_facebook&utm_brand=wired&utm_campaign=falcon&utm_medium=social&utm_social-type=owned))|
+| |Introduction to Program Synthesis||[HW1: Reading Critique](https://www.wired.com/story/ai-write-code-like-humans-bugs/)|
 |2|Inductive Synthesis and Enumerative Search|||
 | |Search Space Pruning||HW2: Program Synthesizer|
-|3|Search Space Prioritization||HW3: Reading Critique ([PLDI2018](https://dl.acm.org/doi/10.1145/3296979.3192410))|
+|3|Search Space Prioritization||[HW3: Reading Critique](https://cacm.acm.org/magazines/2018/12/232879-search-based-program-synthesis/fulltext)|
 | |Representation-based Search|||
 |4|Introduction to Program Verification|||
 | |First-order Logic||
-|5|Hoare Logic||HW4: Reading Critique ([SNP2020](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf))|
+|5|Hoare Logic||[HW4: Reading Critique](https://cacm.acm.org/magazines/2021/7/253452-formal-software-verification-measures-up/fulltext)|
 | |Verification Conditions|||
-|6|Contrained Horn Clauses||HW5: Reading Critique ([SIGPLAN Blog](https://blog.sigplan.org/2021/11/04/neural-network-verification-where-are-we-and-where-do-we-go-from-here/))|
+|6|Contrained Horn Clauses||[HW5: Reading Critique](https://blog.sigplan.org/2021/11/04/neural-network-verification-where-are-we-and-where-do-we-go-from-here/))|
 | |Midterm Project Presentation (1)|||
 |7|Midterm Project Presentation (2)||HW6: Program Verifier|
 | |Midterm Project Presentation (3)|||
@@ -108,6 +108,7 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 - [Formally Verified Mathematics, CACM'14](https://dl.acm.org/doi/pdf/10.1145/2591012)
 - [Verifying Constant-Time Implementations, USENIXSEC'16](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/almeida)
 - [Towards a Verified Range Analysis for JavaScript JITs, PLDI'20](https://www.cs.utexas.edu/~hovav/dist/vera.pdf)
+- [VERISMART: A Highly Precise Safety Verifier for Ethereum Smart Contracts]([SNP2020](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf))
 
 ## Articles
 - [프로그램 합성, 보안, 그리고 인공지능](https://www.boannews.com/media/view.asp?idx=92658)
