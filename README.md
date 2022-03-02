@@ -75,7 +75,7 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 | |First-order Logic||
 |5|Hoare Logic||[HW4: Reading Critique](https://cacm.acm.org/magazines/2021/7/253452-formal-software-verification-measures-up/fulltext)|
 | |Verification Conditions|||
-|6|Contrained Horn Clauses||[HW5: Reading Critique](https://blog.sigplan.org/2021/11/04/neural-network-verification-where-are-we-and-where-do-we-go-from-here/))|
+|6|Contrained Horn Clauses||[HW5: Reading Critique](https://blog.sigplan.org/2021/11/04/neural-network-verification-where-are-we-and-where-do-we-go-from-here/)|
 | |Midterm Project Presentation (1)|||
 |7|Midterm Project Presentation (2)||HW6: Program Verifier|
 | |Midterm Project Presentation (3)|||
