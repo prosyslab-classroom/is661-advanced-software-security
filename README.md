@@ -108,7 +108,7 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 - [Formally Verified Mathematics, CACM'14](https://dl.acm.org/doi/pdf/10.1145/2591012)
 - [Verifying Constant-Time Implementations, USENIXSEC'16](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/almeida)
 - [Towards a Verified Range Analysis for JavaScript JITs, PLDI'20](https://www.cs.utexas.edu/~hovav/dist/vera.pdf)
-- [VERISMART: A Highly Precise Safety Verifier for Ethereum Smart Contracts]([SNP2020](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf))
+- [VERISMART: A Highly Precise Safety Verifier for Ethereum Smart Contracts, SNP'20](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf)
 
 ## Articles
 - [프로그램 합성, 보안, 그리고 인공지능](https://www.boannews.com/media/view.asp?idx=92658)
