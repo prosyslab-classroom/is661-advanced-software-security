@@ -26,9 +26,9 @@ This course will be highly interactive and involve a significant amount of acade
 
 ## Textbook
 - Lecture slides will be provided
-- [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf)
-- [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm)
-- [The Calculus of Computation](https://www.amazon.com/Calculus-Computation-Procedures-Applications-Verification/dp/3540741127)
+- [Program Synthesis](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf) (PS)
+- [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/index.htm) (IPS)
+- [The Calculus of Computation](https://www.amazon.com/Calculus-Computation-Procedures-Applications-Verification/dp/3540741127) (COC)
 
 ## Homework
 This course includes programming assignments through which students will learn how to design
@@ -66,7 +66,7 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |-|------|-------|--------|
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)||
 |1|[Introduction](slides/lecture1.pdf)||HW0: OCaml Programming||
-| |Introduction to Program Synthesis||[HW1: Reading Critique](https://www.wired.com/story/ai-write-code-like-humans-bugs/)|
+| |Introduction to Program Synthesis|PS Ch1, Ch2|[HW1: Reading Critique](https://www.wired.com/story/ai-write-code-like-humans-bugs/)|
 |2|Inductive Synthesis and Enumerative Search|||
 | |Search Space Pruning||HW2: Program Synthesizer|
 |3|Search Space Prioritization||[HW3: Reading Critique](https://cacm.acm.org/magazines/2018/12/232879-search-based-program-synthesis/fulltext)|
