@@ -68,7 +68,7 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |1|[Introduction](slides/lecture1.pdf)||HW0: OCaml Programming||
 | |[Introduction to Program Synthesis](slides/lecture2.pdf)|PS Ch1-2, IPS Lec1|[HW1: Reading Critique](https://www.wired.com/story/ai-write-code-like-humans-bugs/)|
 |2|[Inductive Synthesis and Enumerative Search](slides/lecture3.pdf)|PS Ch4.1, IPS Lec2-4||
-| |Search Space Pruning||HW2: Program Synthesizer|
+| |[Search Space Pruning](slides/lecture4.pdf)||HW2: Program Synthesizer|
 |3|Search Space Prioritization||[HW3: Reading Critique](https://cacm.acm.org/magazines/2018/12/232879-search-based-program-synthesis/fulltext)|
 | |Representation-based Search|||
 |4|Introduction to Program Verification|||
