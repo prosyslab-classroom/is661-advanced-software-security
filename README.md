@@ -70,7 +70,7 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |2|[Inductive Synthesis and Enumerative Search](slides/lecture3.pdf)|PS Ch4.1, IPS Lec2-4||
 | |[Search Space Pruning](slides/lecture4.pdf)|||
 |3|[Search Space Prioritization](slides/lecture5.pdf)||[HW2: Reading Critique](https://cacm.acm.org/magazines/2018/12/232879-search-based-program-synthesis/fulltext)|
-| |Representation-based Search||HW3: Program Synthesizer|
+| |[Representation-based Search](slides/lecture6.pdf)||HW3: Program Synthesizer|
 |4|Introduction to Program Verification|||
 | |First-order Logic||
 |5|Hoare Logic||[HW4: Reading Critique](https://cacm.acm.org/magazines/2021/7/253452-formal-software-verification-measures-up/fulltext)|
