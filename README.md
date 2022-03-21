@@ -71,7 +71,9 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 | |[Search Space Pruning](slides/lecture4.pdf)|||
 |3|[Search Space Prioritization](slides/lecture5.pdf)||[HW2: Reading Critique](https://cacm.acm.org/magazines/2018/12/232879-search-based-program-synthesis/fulltext)|
 | |[Representation-based Search](slides/lecture6.pdf)||HW3: Program Synthesizer|
-|4|Introduction to Program Verification|||
+|4|[Program Synthesis and Verification](slides/lecture7.pdf)|||
+| |[Introduction to Program Verification](slides/lecture8.pdf)|||
+| |Propositional Logic|COC Ch1|
 | |First-order Logic||
 |5|Hoare Logic||[HW4: Reading Critique](https://cacm.acm.org/magazines/2021/7/253452-formal-software-verification-measures-up/fulltext)|
 | |Verification Conditions|||
