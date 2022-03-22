@@ -73,8 +73,8 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 | |[Representation-based Search](slides/lecture6.pdf)||HW3: Program Synthesizer|
 |4|[Program Synthesis and Verification](slides/lecture7.pdf)|||
 | |[Introduction to Program Verification](slides/lecture8.pdf)|||
-| |Propositional Logic|COC Ch1|
-| |First-order Logic||
+| |[Propositional Logic](slides/lecture9.pdf)|COC Ch1|
+| |First-order Logic|COC Ch2|
 |5|Hoare Logic||[HW4: Reading Critique](https://cacm.acm.org/magazines/2021/7/253452-formal-software-verification-measures-up/fulltext)|
 | |Verification Conditions|||
 |6|Contrained Horn Clauses||[HW5: Reading Critique](https://blog.sigplan.org/2021/11/04/neural-network-verification-where-are-we-and-where-do-we-go-from-here/)|
