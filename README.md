@@ -74,15 +74,14 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |4|[Program Synthesis and Verification](slides/lecture7.pdf)|||
 | |[Introduction to Program Verification](slides/lecture8.pdf)|||
 | |[Propositional Logic](slides/lecture9.pdf)|COC Ch1|
-| |First-order Logic|COC Ch2|
-|5|Hoare Logic||[HW4: Reading Critique](https://cacm.acm.org/magazines/2021/7/253452-formal-software-verification-measures-up/fulltext)|
+|5|First-order Logic|COC Ch2|
+| |First-order Theory|COC Ch3|
+|6|Hoare Logic||[HW4: Reading Critique](https://cacm.acm.org/magazines/2021/7/253452-formal-software-verification-measures-up/fulltext)|
 | |Verification Conditions|||
-|6|Contrained Horn Clauses||[HW5: Reading Critique](https://blog.sigplan.org/2021/11/04/neural-network-verification-where-are-we-and-where-do-we-go-from-here/)|
+|7|Verification using Contrained Horn Clauses||[HW5: Reading Critique](https://blog.sigplan.org/2021/11/04/neural-network-verification-where-are-we-and-where-do-we-go-from-here/)|
 | |Midterm Project Presentation (1)|||
-|7|Midterm Project Presentation (2)||HW6: Program Verifier|
-| |Midterm Project Presentation (3)|||
-|8|No Classes (Midterm week)||[HW7: Final Project Proposal](https://kaist-asos22.hotcrp.com)|
-|9|Proposal Review & Discussion|||
+|8|Midterm Project Presentation (2)||HW6: Program Verifier|
+|9|Proposal Review & Discussion||[HW7: Final Project Proposal](https://kaist-asos22.hotcrp.com)|
 | |Proposal Presentation||Final Project|
 |10|Paper Presentation (1)|||
 |11|Paper Presentation (2)|||
