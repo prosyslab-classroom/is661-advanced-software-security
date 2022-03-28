@@ -75,7 +75,7 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 | |[Introduction to Program Verification](slides/lecture8.pdf)|||
 | |[Propositional Logic](slides/lecture9.pdf)|COC Ch1|
 |5|[First-order Logic](slides/lecture10.pdf)|COC Ch2|
-| |First-order Theory|COC Ch3|
+| |[First-order Theory](slides/lecture11.pdf)|COC Ch3|
 |6|Hoare Logic||[HW4: Reading Critique](https://cacm.acm.org/magazines/2021/7/253452-formal-software-verification-measures-up/fulltext)|
 | |Verification Conditions|||
 |7|Verification using Contrained Horn Clauses||[HW5: Reading Critique](https://blog.sigplan.org/2021/11/04/neural-network-verification-where-are-we-and-where-do-we-go-from-here/)|
