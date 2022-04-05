@@ -77,7 +77,7 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |5|[First-order Logic](slides/lecture10.pdf)|COC Ch2|
 | |[First-order Theory](slides/lecture11.pdf)|COC Ch3|
 |6|[Hoare Logic](slides/lecture12.pdf)|COC Ch5|[HW4: Reading Critique](https://cacm.acm.org/magazines/2021/7/253452-formal-software-verification-measures-up/fulltext)|
-|7|Verification using Contrained Horn Clauses||[HW5: Reading Critique](https://blog.sigplan.org/2021/11/04/neural-network-verification-where-are-we-and-where-do-we-go-from-here/)|
+|7|[Automatic Verification using Contrained Horn Clauses](slides/lecture13.pdf)||[HW5: Reading Critique](https://blog.sigplan.org/2021/11/04/neural-network-verification-where-are-we-and-where-do-we-go-from-here/)|
 | |Midterm Project Presentation (1)|||
 |8|Midterm Project Presentation (2)||HW6: Program Verifier|
 |9|Proposal Review & Discussion||[HW7: Final Project Proposal](https://kaist-asos22.hotcrp.com)|
@@ -115,4 +115,8 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 - [프로그램 합성, 보안, 그리고 인공지능](https://www.boannews.com/media/view.asp?idx=92658)
 
 ## Acknowlegement
-A large part of the slides is based on the lecture notes by Nadia Polikarpova and Woosuk Lee.
+A large part of the slides is based on the lecture notes of similar courses by
+- [Nadia Polikarpova](https://github.com/nadia-polikarpova/cse291-program-synthesis)
+- [Woosuk Lee](http://psl.hanyang.ac.kr/courses/cse9116_2022s/)
+- [Hakjoo Oh](http://prl.korea.ac.kr/~pronto/home/courses/aaa528/2018/)
+- [Isil Dillig](https://www.cs.utexas.edu/~isil/cs389L/).
