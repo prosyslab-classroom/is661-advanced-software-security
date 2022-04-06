@@ -89,13 +89,14 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |  |Paper Presentation (2)|||
 |12|No class (Graduate admission)|||
 |  |Paper Presentation (3)|||
-|13|Final Project Presentation (1)|||
-|  |Final Project Presentation (2)|||
-|14|Final Project Presentation (3)||[HW7: Reading Critique](https://blog.sigplan.org/2021/11/04/neural-network-verification-where-are-we-and-where-do-we-go-from-here/)|
+|13|Paper Presentation (4)|||
+|  |Final Project Presentation (1)|||
+|14|Final Project Presentation (2)||[HW7: Reading Critique](https://blog.sigplan.org/2021/11/04/neural-network-verification-where-are-we-and-where-do-we-go-from-here/)|
 |  |No class (Election day)|||
-|15|Final Project Presentation (4)|||
+|15|Final Project Presentation (3)|||
 |  |No class (Memorial day)|||
-|16|No Classes (Final week)|||
+|16|Final Project Presentation (4)|||
+|  |No Classes (Final week)|||
 
 ## Papers
 ### Program Synthesis
