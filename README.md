@@ -77,17 +77,21 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |5|[First-order Logic](slides/lecture10.pdf)|COC Ch2|
 | |[First-order Theory](slides/lecture11.pdf)|COC Ch3|
 |6|[Hoare Logic](slides/lecture12.pdf)|COC Ch5|[HW4: Reading Critique](https://cacm.acm.org/magazines/2021/7/253452-formal-software-verification-measures-up/fulltext)|
-|7|[Automatic Verification using Contrained Horn Clauses](slides/lecture13.pdf)||[HW5: Reading Critique](https://blog.sigplan.org/2021/11/04/neural-network-verification-where-are-we-and-where-do-we-go-from-here/)|
+|7|[Automatic Verification using Contrained Horn Clauses](slides/lecture13.pdf)||HW5: Program Verifier|
 | |Midterm Project Presentation (1)|||
-|8|Midterm Project Presentation (2)||HW6: Program Verifier|
-|9|Proposal Review & Discussion||[HW7: Final Project Proposal](https://kaist-asos22.hotcrp.com)|
-| |Proposal Presentation||Final Project|
-|10|Paper Presentation (1)|||
-|11|Paper Presentation (2)|||
-|12|Paper Presentation (3)|||
+|8|No Classes (Midtern week)|||
+|9|Midterm Project Presentation (2)|||
+| |Midterm Project Presentation (3)||[HW6: Final Project Proposal](https://kaist-asos22.hotcrp.com)|
+|10|Proposal Review & Discussion (1)|||
+|  |Proposal Review & Discussion (2)|||
+|11|Paper Presentation (1)|||
+|12|Paper Presentation (2)|||
+|13|Paper Presentation (3)|||
+|  |Paper Presentation (4)|||
 |13|Final Project Presentation (1)|||
-|14|Final Project Presentation (2)|||
-|15|Final Project Presentation (3)|||
+|  |Final Project Presentation (2)|||
+|14|Final Project Presentation (3)||[HW7: Reading Critique](https://blog.sigplan.org/2021/11/04/neural-network-verification-where-are-we-and-where-do-we-go-from-here/)|
+|15|Final Project Presentation (4)|||
 |16|No Classes (Final week)|||
 
 ## Papers
