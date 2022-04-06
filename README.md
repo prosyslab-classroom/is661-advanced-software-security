@@ -82,8 +82,7 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |8|Midterm Project Presentation (2)|||
 |9|Midterm Project Presentation (3)|||
 | |Midterm Project Presentation (4)||[HW6: Final Project Proposal](https://kaist-asos22.hotcrp.com)|
-|10|Proposal Review & Discussion (1)|||
-|  |Proposal Review & Discussion (2)|||
+|10|Proposal Review & Discussion|||
 |11|Paper Presentation (1)|||
 |12|Paper Presentation (2)|||
 |13|Paper Presentation (3)|||
