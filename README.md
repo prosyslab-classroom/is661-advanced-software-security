@@ -80,17 +80,21 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |7|[Automatic Verification using Contrained Horn Clauses](slides/lecture13.pdf)||HW5: Program Verifier|
 | |Midterm Project Presentation (1)|||
 |8|Midterm Project Presentation (2)|||
+| |No class (midterm week)|||
 |9|Midterm Project Presentation (3)|||
 | |Midterm Project Presentation (4)||[HW6: Final Project Proposal](https://kaist-asos22.hotcrp.com)|
 |10|Proposal Review & Discussion|||
+|  |No class (Children's day)|||
 |11|Paper Presentation (1)|||
-|12|Paper Presentation (2)|||
-|13|Paper Presentation (3)|||
-|  |Paper Presentation (4)|||
+|  |Paper Presentation (2)|||
+|12|No class (Graduate admission)|||
+|  |Paper Presentation (3)|||
 |13|Final Project Presentation (1)|||
 |  |Final Project Presentation (2)|||
 |14|Final Project Presentation (3)||[HW7: Reading Critique](https://blog.sigplan.org/2021/11/04/neural-network-verification-where-are-we-and-where-do-we-go-from-here/)|
+|  |No class (Election day)|||
 |15|Final Project Presentation (4)|||
+|  |No class (Memorial day)|||
 |16|No Classes (Final week)|||
 
 ## Papers
