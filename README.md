@@ -59,24 +59,23 @@ Students who violate academic integrity will get an F.
 See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEvq6R0G6n3Cz7jKX16RWvDy2giBKm8EVJtQHUBJoDA/viewform).
 
 ## Schedule
-|Week|Topics|Reading|
-|----|------|-------|
-|1|[Introduction](slides/lecture1.pdf)||HW0: OCaml Programming||
+|#|Topics|Reading|
+|-|------|-------|
+|1|[Introduction](slides/lecture1.pdf)||||
 |2|[How to Write a Great Research Paper](assets/simon-papers.pdf) [<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=WP-FkUaOcOM)||
-|3|[How to Give a Greate Research Talk](assets/simon-talks.pdf) [<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=sT_-owjKIbA)||
-|4|[How to Write a Grant Proposal Talk](assets/simon-proposal.pdf) [<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=nEuK54bo6RE)||
-|5|[How to Write Papers So People Can Read Them](assets/talk-plmw16.pdf) [<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=KfEVdMMY1aQ)||
-|6|Student Presentation (1)||
-|7|Student Presentation (2)||
-|8|No class|||
-|9|Final Project Proposal (1)|||
-|10|Final Project Proposal (2)|||
-|11|Student Presentation (3)||
-|12|Student Presentation (4)||
-|13|Student Presentation (5)||
+|3|[How to Write Papers So People Can Read Them](assets/talk-plmw16.pdf) [<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=KfEVdMMY1aQ)||
+|4|Paper Writing, Review, and Discussion||
+|5|[How to Give a Great Research Talk](assets/simon-talks.pdf) [<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=sT_-owjKIbA)||
+|6|Student Presentation||
+|7|[How to Write a Grant Proposal Talk](assets/simon-proposal.pdf) [<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=nEuK54bo6RE)||
+|8|Final Project Proposal (1)||
+|9|Final Project Proposal (2)|||
+|10|Paper Presentation (1)|||
+|11|Paper Presentation (2)||
+|12|Paper Presentation (3)||
+|13|Paper Presentation (4)||
 |14|Final Project Presentation (1)|||
 |15|Final Project Presentation (2)|||
-|16|No class|||
 
 ## Papers
 ### Program Synthesis
