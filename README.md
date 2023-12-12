@@ -13,17 +13,9 @@
 
 ## Course Description
 The goal of this course is to develop scientific communication skills.
-Students will learn how to write a scientific paper, give a technical
+Students will learn how to write a research paper, give a technical
 talk, and review a research paper. Students will propose and complete
 a research project during the semester.
-
-In particular, the course consists of two parts:
-- Paper review: each student is assigned several research papers to
-  review. Students will learn how to critically read and understand
-  a paper.
-- Project: each student will propose and complete a research project
-  during the semester. Students will learn how to find a research
-  problem, propose a solution, and evaluate the solution.
 
 ## Grading
 - Paper review: 40%
@@ -42,12 +34,10 @@ we can understand how they work and discover new knowledge.
 The project theme of this course is "Be Galileo of Programming Systems".
 Students will make a visualization tool for understandable and explainable
 programming systems (e.g., program analyzer, fuzzer, synthesizer, compiler, etc).
-
 The visualization tool should help users understand the behavior of the
-underlying programming system. For example, the visualization tool can
-provide the following benefits:
-- Help researchers (e.g., yourself) find new research problems in program systems
-- Help non-expert users understand the behavior of program analyzers
+underlying programming system. For example, such tools can provide the following benefits:
+- Help computer scientists (e.g., yourself) find new research problems in programming language, software engineering, or security.
+- Help non-expert users understand the behavior of software analyzers.
 
 Students can refer to the following projects for inspiration:
 - [James Webb Space Telescope](https://webb.nasa.gov)
