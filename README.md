@@ -31,15 +31,17 @@ In particular, the course consists of two parts:
 
 ## Project Theme: Understandable & Explainable Programming Systems
 Observation is the beginning of all sciences.
-For example, Galileo Galilei observed that the Earth is not the center of the universe.
+For example, Heliocentrism, one of the most important scientific discovery,
+started from several critical observation by Galileo Galilei.
 This observation led to the development of modern astronomy.
 Computer science is no exception.
-Only when we observe the behavior of computer systems,
-we can understand how they work.
+Only when we observe the behavior of large and complicated software systems,
+we can understand how they work and discover new knowledge.
 
-The project theme of this semester is understandable and explainable
+The project theme of this course is "Be Galileo of Programming Systems".
+Students will make a visualization tool for understandable and explainable
 programming systems (e.g., program analyzer, fuzzer, synthesizer, compiler, etc).
-Students will make a visualization tool for a chosen programming system.
+
 The visualization tool should help users understand the behavior of the
 underlying programming system. For example, the visualization tool can
 provide the following benefits:
