@@ -43,6 +43,7 @@ Students can refer to the following projects for inspiration:
 - [James Webb Space Telescope](https://webb.nasa.gov)
 - [Event Horizon Telescope](https://eventhorizontelescope.org)
 - [Fuzzle](https://softsec-kaist.github.io/Fuzzle/)
+- [Bubble-sort dance](https://www.youtube.com/watch?v=Iv3vgjM8Pv4), [Quick-sort dance](https://www.youtube.com/watch?v=3San3uKKHgg)
 - [D3](https://d3js.org)
 
 ## Academic Integrity Violation
@@ -50,21 +51,21 @@ Students who violate academic integrity will get an F.
 See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEvq6R0G6n3Cz7jKX16RWvDy2giBKm8EVJtQHUBJoDA/viewform).
 
 ## Schedule
-|#|Topics|Reading|
-|-|------|-------|
+|#|Topics|Reading/Watching|Homework|
+|-|------|:--------------:|--------|
 |1|[Introduction](slides/lecture1.pdf)||||
-|2|[How to Write a Great Research Paper](assets/simon-papers.pdf) [<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=WP-FkUaOcOM)||
-|3|[How to Write Papers So People Can Read Them](assets/talk-plmw16.pdf) [<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=KfEVdMMY1aQ)||
-|4|Paper Writing, Review, and Discussion||
-|5|[How to Give a Great Research Talk](assets/simon-talks.pdf) [<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=sT_-owjKIbA)||
-|6|Research Talk||
-|7|[How to Write a Grant Proposal Talk](assets/simon-proposal.pdf) [<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=nEuK54bo6RE)||
-|8|Project Proposal (1)||
-|9|Project Proposal (2)|||
-|10|Paper Presentation (1)|||
-|11|Paper Presentation (2)||
-|12|Paper Presentation (3)||
-|13|Paper Presentation (4)||
+|2|[How to Write a Great Research Paper](assets/simon-papers.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=WP-FkUaOcOM)||
+|3|[How to Write Papers So People Can Read Them](assets/talk-plmw16.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=KfEVdMMY1aQ)|HW1: Essay|
+|4|Paper Writing, Review, and Discussion||HW2: Write your quick sort paper|
+|5|[How to Give a Great Research Talk](assets/simon-talks.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=sT_-owjKIbA)|HW3: Essay|
+|6|Research Talk||HW4: Present your quick sort|
+|7|[How to Write a Grant Proposal Talk](assets/simon-proposal.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=nEuK54bo6RE)|HW5: Essay |
+|8|Project Proposal Presentation (1)||HW6: Project Proposal|
+|9|Project Proposal Presentation (2)|||
+|10|Paper Presentation (1)||HW7: Paper Review|
+|11|Paper Presentation (2)|||
+|12|Paper Presentation (3)|||
+|13|Paper Presentation (4)|||
 |14|Final Project Presentation (1)|||
 |15|Final Project Presentation (2)|||
 
