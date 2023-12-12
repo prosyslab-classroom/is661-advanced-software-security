@@ -30,6 +30,9 @@ In particular, the course consists of two parts:
 - Participation: 10%
 
 ## Project Theme: Understandable & Explainable Programming Systems
+Observation is the beginning of all sciences.
+Computer science is not an exception.
+
 The project theme of this semester is understandable and explainable
 programming systems (e.g., program analyzer, fuzzer, synthesizer, compiler, etc).
 Students will make a visualization tool for a chosen programming system.
@@ -39,6 +42,10 @@ provide the following benefits:
 - Help researchers (e.g., yourself) find new research problems in program systems
 - Help non-expert users understand the behavior of program analyzers
 
+- [James Webb Space Telescope](https://webb.nasa.gov)
+- [Fuzzle](https://softsec-kaist.github.io/Fuzzle/)
+- [D3](https://d3js.org)
+
 ## Academic Integrity Violation
 Students who violate academic integrity will get an F.
 See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEvq6R0G6n3Cz7jKX16RWvDy2giBKm8EVJtQHUBJoDA/viewform).
@@ -47,18 +54,18 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |Week|Topics|Reading|
 |----|------|-------|
 |1|[Introduction](slides/lecture1.pdf)||HW0: OCaml Programming||
-|2|Student Presentation (1)||
-|3|Student Presentation (2)||
-|4|Student Presentation (3)||
-|5|Student Presentation (4)||
-|6|Student Presentation (5)||
-|7|Student Presentation (6)||
+|2|[How to Write a Great Research Paper](https://www.youtube.com/watch?v=WP-FkUaOcOM)||
+|3|[How to Give a Greate Research Talk](https://www.youtube.com/watch?v=sT_-owjKIbA)||
+|4|[How to Write a Grant Proposal Talk](https://www.youtube.com/watch?v=nEuK54bo6RE)||
+|5|[How to Write Papers So People Can Read Them](https://www.youtube.com/watch?v=KfEVdMMY1aQ)||
+|6|Student Presentation (1)||
+|7|Student Presentation (2)||
 |8|No class|||
 |9|Final Project Proposal (1)|||
 |10|Final Project Proposal (2)|||
-|11|Student Presentation (6)||
-|12|Student Presentation (7)||
-|13|Student Presentation (8)||
+|11|Student Presentation (3)||
+|12|Student Presentation (4)||
+|13|Student Presentation (5)||
 |14|Final Project Presentation (1)|||
 |15|Final Project Presentation (2)|||
 |16|No class|||
@@ -83,7 +90,3 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 - [Verifying Constant-Time Implementations, USENIXSEC'16](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/almeida)
 - [Towards a Verified Range Analysis for JavaScript JITs, PLDI'20](https://www.cs.utexas.edu/~hovav/dist/vera.pdf)
 - [VERISMART: A Highly Precise Safety Verifier for Ethereum Smart Contracts, SNP'20](http://prl.korea.ac.kr/~pronto/home/papers/snp20.pdf)
-
-## References
-- [Fuzzle](https://softsec-kaist.github.io/Fuzzle/)
-- [D3](https://d3js.org)
