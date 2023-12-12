@@ -66,10 +66,10 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |3|[How to Write Papers So People Can Read Them](assets/talk-plmw16.pdf) [<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=KfEVdMMY1aQ)||
 |4|Paper Writing, Review, and Discussion||
 |5|[How to Give a Great Research Talk](assets/simon-talks.pdf) [<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=sT_-owjKIbA)||
-|6|Student Presentation||
+|6|Research Talk||
 |7|[How to Write a Grant Proposal Talk](assets/simon-proposal.pdf) [<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=nEuK54bo6RE)||
-|8|Final Project Proposal (1)||
-|9|Final Project Proposal (2)|||
+|8|Project Proposal (1)||
+|9|Project Proposal (2)|||
 |10|Paper Presentation (1)|||
 |11|Paper Presentation (2)||
 |12|Paper Presentation (3)||
