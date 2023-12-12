@@ -30,38 +30,22 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 ## Schedule
 |Week|Topics|Reading|Homework|
 |-|------|-------|--------|
-|0|[Functional Programming in OCaml](slides/lecture0.pdf)||
 |1|[Introduction](slides/lecture1.pdf)||HW0: OCaml Programming||
-| |[Introduction to Program Synthesis](slides/lecture2.pdf)|PS Ch1-2, IPS Lec1|[HW1: Reading Critique](https://www.wired.com/story/ai-write-code-like-humans-bugs/)|
 |2|[Inductive Synthesis and Enumerative Search](slides/lecture3.pdf)|PS Ch4.1, IPS Lec2-4||
-| |[Search Space Pruning](slides/lecture4.pdf)|||
 |3|[Search Space Prioritization](slides/lecture5.pdf)||[HW2: Reading Critique](https://cacm.acm.org/magazines/2018/12/232879-search-based-program-synthesis/fulltext)|
-| |[Representation-based Search](slides/lecture6.pdf)||HW3: Program Synthesizer|
 |4|[Program Synthesis and Verification](slides/lecture7.pdf)|||
-| |[Introduction to Program Verification](slides/lecture8.pdf)|||
-| |[Propositional Logic](slides/lecture9.pdf)|COC Ch1|
 |5|[First-order Logic](slides/lecture10.pdf)|COC Ch2|
-| |[First-order Theory](slides/lecture11.pdf)|COC Ch3|
 |6|[Hoare Logic](slides/lecture12.pdf)|COC Ch5|[HW4: Reading Critique](https://cacm.acm.org/magazines/2021/7/253452-formal-software-verification-measures-up/fulltext)|
 |7|[Automatic Verification using Contrained Horn Clauses](slides/lecture13.pdf)||HW5: Program Verifier|
-| |Midterm Project Presentation (1)|||
-|8|Midterm Project Presentation (2)|||
-| |No class (midterm week)|||
+|8|No class|||
 |9|Midterm Project Presentation (3)|||
-| |Midterm Project Presentation (4)||[HW6: Final Project Proposal](https://kaist-asos22.hotcrp.com)|
 |10|Proposal Review & Discussion|||
-|  |No class (Children's day)|||
 |11|No class (ICSE)|||
-|  |Paper Presentation (1)|||
 |12|Paper Presentation (2)|||
-|  |No class (Graduate admission)|||
 |13|Paper Presentation (3)|||
-|  |Paper Presentation (4)|||
 |14|Final Project Presentation (1)|||
-|  |Final Project Presentation (2)||[HW7: Reading Critique](https://blog.sigplan.org/2021/11/04/neural-network-verification-where-are-we-and-where-do-we-go-from-here/)|
-|15|Final Project Presentation (3)|||
-|  |Final Project Presentation (4)|||
-|16|Final Project Presentation (5)|||
+|15|Final Project Presentation (2)|||
+|16|No class|||
 
 ## Papers
 ### Program Synthesis
