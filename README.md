@@ -1,14 +1,15 @@
 # IS661: Advanced Software Security
 
 ## Logistics
-- Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@kaist.ac.kr)
+- Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@prosys.kaist.ac.kr)
 - TAs (mailing list: is661.ta@prosys.kaist.ac.kr)
-  - TBA
-  - Time: TBA
-- Office hour (by appointment):
-  - Instructor: TBA
-  - TAs: TBA
-- Location: TBA
+  - [Yeonhee Ryou](https://yeonhee-ryou.github.io) (류연희)
+  - [Jaeseong Kwon](https://doitman.kr) (권재성)
+- Time: TBA
+- Location: N5 2243
+- Office hours:
+  - Instructor: Mon 10:30 - 11:30
+  - TAs: Wed 10:30 - 11:30
 
 ## Course Description
 The goal of this course is to develop scientific communication skills.
