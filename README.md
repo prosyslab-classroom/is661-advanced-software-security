@@ -62,10 +62,10 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |Week|Topics|Reading|
 |----|------|-------|
 |1|[Introduction](slides/lecture1.pdf)||HW0: OCaml Programming||
-|2|[How to Write a Great Research Paper](https://www.youtube.com/watch?v=WP-FkUaOcOM)||
-|3|[How to Give a Greate Research Talk](https://www.youtube.com/watch?v=sT_-owjKIbA)||
-|4|[How to Write a Grant Proposal Talk](https://www.youtube.com/watch?v=nEuK54bo6RE)||
-|5|[How to Write Papers So People Can Read Them](https://www.youtube.com/watch?v=KfEVdMMY1aQ)||
+|2|[How to Write a Great Research Paper](assets/simon-papers.pdf) [<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=WP-FkUaOcOM)||
+|3|[How to Give a Greate Research Talk](assets/simon-talks.pdf) [<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=sT_-owjKIbA)||
+|4|[How to Write a Grant Proposal Talk](assets/simon-proposal.pdf) [<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=nEuK54bo6RE)||
+|5|[How to Write Papers So People Can Read Them](assets/talk-plmw16.pdf) [<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=KfEVdMMY1aQ)||
 |6|Student Presentation (1)||
 |7|Student Presentation (2)||
 |8|No class|||
