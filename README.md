@@ -31,7 +31,11 @@ In particular, the course consists of two parts:
 
 ## Project Theme: Understandable & Explainable Programming Systems
 Observation is the beginning of all sciences.
-Computer science is not an exception.
+For example, Galileo Galilei observed that the Earth is not the center of the universe.
+This observation led to the development of modern astronomy.
+Computer science is no exception.
+Only when we observe the behavior of computer systems,
+we can understand how they work.
 
 The project theme of this semester is understandable and explainable
 programming systems (e.g., program analyzer, fuzzer, synthesizer, compiler, etc).
@@ -42,7 +46,9 @@ provide the following benefits:
 - Help researchers (e.g., yourself) find new research problems in program systems
 - Help non-expert users understand the behavior of program analyzers
 
+Students can refer to the following projects for inspiration:
 - [James Webb Space Telescope](https://webb.nasa.gov)
+- [Event Horizon Telescope](https://eventhorizontelescope.org)
 - [Fuzzle](https://softsec-kaist.github.io/Fuzzle/)
 - [D3](https://d3js.org)
 
