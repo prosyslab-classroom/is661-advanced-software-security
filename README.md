@@ -56,7 +56,7 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |1|[Introduction](slides/lecture1.pdf)||||
 |2|[How to Write a Great Research Paper](assets/simon-papers.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=WP-FkUaOcOM)||
 |3|[How to Write Papers So People Can Read Them](assets/talk-plmw16.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=KfEVdMMY1aQ)|HW1: Essay|
-|4|Paper Writing, Review, and Discussion||HW2: Write your quick sort paper|
+|4|Paper Writing, Review, and Discussion||[HW2: Write your quick sort paper](quicksort.md)|
 |5|[How to Give a Great Research Talk](assets/simon-talks.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=sT_-owjKIbA)|HW3: Essay|
 |6|Research Talk||HW4: Present your quick sort|
 |7|[How to Write a Grant Proposal Talk](assets/simon-proposal.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=nEuK54bo6RE)|HW5: Essay |
