@@ -46,6 +46,9 @@ Students can refer to the following projects for inspiration:
 - [Bubble-sort dance](https://www.youtube.com/watch?v=Iv3vgjM8Pv4), [Quick-sort dance](https://www.youtube.com/watch?v=3San3uKKHgg)
 - [D3](https://d3js.org)
 
+## Paper & Proposal Review
+We use [HotCRP](https://kaist-asos2024.hotcrp.com).
+
 ## Academic Integrity Violation
 Students who violate academic integrity will get an F.
 See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEvq6R0G6n3Cz7jKX16RWvDy2giBKm8EVJtQHUBJoDA/viewform).
