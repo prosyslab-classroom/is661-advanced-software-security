@@ -1,7 +1,7 @@
-# IS661: Advanced Software Security
+# IS661: Advanced Software Security (고급 소프트웨어 보안)
 
 ## Logistics
-- Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@prosys.kaist.ac.kr)
+- Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (허기홍, kihong.heo@prosys.kaist.ac.kr)
 - TAs (mailing list: is661.ta@prosys.kaist.ac.kr)
   - [Yeonhee Ryou](https://yeonhee-ryou.github.io) (류연희)
   - [Jaeseong Kwon](https://doitman.kr) (권재성)
