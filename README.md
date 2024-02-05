@@ -73,16 +73,22 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |15|Final Project Presentation (2)|||
 
 ## Papers
+### Program Analysis & Testing
+- [Abstract Interpretation of Fixpoint Iterators with Applications to Neural Networks, PLDI'23](https://arxiv.org/abs/2110.08260)
+- [Compiler Test-Program Generation via Memoized Configuration Search, ICSE'23](https://ieeexplore.ieee.org/document/10172512)
+
+### Program Verification
+- [Formally Verified Native Code Generation in an Effectful JIT: Turning the CompCert Backend into a Formally Verified JIT Compiler, POPL'23](https://dl.acm.org/doi/abs/10.1145/3571202)
+- [Alive2: bounded translation validation for LLVM, PLDI'21](https://dl.acm.org/doi/10.1145/3453483.3454030)
+- [Towards a Verified Range Analysis for JavaScript JITs, PLDI'20](https://www.cs.utexas.edu/~hovav/dist/vera.pdf)
+
 ### Program Synthesis
+- [babble: Learning Better Abstractions with E-Graphs and Anti-unification,POPL'23](https://dl.acm.org/doi/abs/10.1145/3571207)
+- [FlashFill++: Scaling Programming by Example by Cutting to the Chase, POPL'23](https://dl.acm.org/doi/abs/10.1145/3571226)
+- [Inductive Synthesis of Structurally Recursive Functional Programs from Non-recursive Expressions, POPL'23](https://dl.acm.org/doi/abs/10.1145/3571263)
 - [DPGen: Automated Program Synthesis for Differential Privacy, CCS'21](https://arxiv.org/abs/2109.07441)
 - [Data-Driven Synthesis of Provably Sound Side Channel Analyses, ICSE'21](https://ieeexplore.ieee.org/document/9402113)
 - [Optimizing Homomorphic Evaluation Circuits by Program Synthesis and Term Rewriting, PLDI'20](https://dl.acm.org/doi/abs/10.1145/3385412.3385996)
 
-### Program Verification
-- [Alive2: bounded translation validation for LLVM, PLDI'21](https://dl.acm.org/doi/10.1145/3453483.3454030)
-- [Towards a Verified Range Analysis for JavaScript JITs, PLDI'20](https://www.cs.utexas.edu/~hovav/dist/vera.pdf)
-
 ### AI-based Programming Systems
-
-### Program Analysis
-
+- [Prompting Is Programming: A Query Language for Large Language Models, PLDI'23](https://dl.acm.org/doi/abs/10.1145/3591300)
