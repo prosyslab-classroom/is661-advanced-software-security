@@ -5,7 +5,7 @@
 - TAs (mailing list: is661.ta@prosys.kaist.ac.kr)
   - [Yeonhee Ryou](https://yeonhee-ryou.github.io) (류연희)
   - [Jaeseong Kwon](https://doitman.kr) (권재성)
-- Time: Mon/Wed 09:00 - 10:15
+- Time: Tue/Thr 09:00 - 10:15
 - Location: N5 2243
 - Office hours:
   - Instructor: Mon 10:30 - 11:30
