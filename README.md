@@ -57,20 +57,17 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |#|Topics|Reading/Watching|Homework|
 |-|------|:--------------:|--------|
 |1|[Introduction](slides/lecture1.pdf)||||
-|2|[How to Write a Great Research Paper](assets/simon-papers.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=WP-FkUaOcOM)||
-|3|[How to Write Papers So People Can Read Them](assets/talk-plmw16.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=KfEVdMMY1aQ)|HW1: Essay|
-|4|Paper Writing, Review, and Discussion||[HW2: Write your quick sort paper](quicksort.md)|
-|5|[How to Give a Great Research Talk](assets/simon-talks.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=sT_-owjKIbA)|HW3: Essay|
-|6|Research Talk||HW4: Present your quick sort|
-|7|[How to Write a Grant Proposal Talk](assets/simon-proposal.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=nEuK54bo6RE)|HW5: Essay |
-|8|Project Proposal Presentation (1)||HW6: Project Proposal|
-|9|Project Proposal Presentation (2)|||
-|10|Paper Presentation (1)||HW7: Paper Review|
-|11|Paper Presentation (2)|||
-|12|Paper Presentation (3)|||
-|13|Paper Presentation (4)|||
-|14|Final Project Presentation (1)|||
-|15|Final Project Presentation (2)|||
+|2|[You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=a1zDuOPkMSw)|HW1: Essay|
+|3|[How to Write a Great Research Paper](assets/simon-papers.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=WP-FkUaOcOM)|HW2: Essay|
+|4|[How to Write Papers So People Can Read Them](assets/talk-plmw16.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=KfEVdMMY1aQ)|HW3: Essay|
+|5|Paper Writing, Review, and Discussion||[HW4: Write your quick sort paper](quicksort.md)|
+|6|[How to Give a Great Research Talk](assets/simon-talks.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=sT_-owjKIbA)|HW3: Essay|
+|7|Research Talk||HW5: Present your quick sort|
+|8|[How to Write a Grant Proposal Talk](assets/simon-proposal.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=nEuK54bo6RE)|HW6: Essay |
+|9|Project Proposal Presentation (1)||HW7: Project Proposal|
+|10|Project Proposal Presentation (2)|||
+|11|Paper Presentation||HW8: Paper Review|
+|12|Final Project Presentation|||
 
 ## Papers
 ### Program Analysis & Testing
