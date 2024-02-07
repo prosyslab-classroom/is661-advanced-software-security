@@ -54,20 +54,39 @@ Students who violate academic integrity will get an F.
 See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEvq6R0G6n3Cz7jKX16RWvDy2giBKm8EVJtQHUBJoDA/viewform).
 
 ## Schedule
-|#|Topics|Reading/Watching|Homework|
-|-|------|:--------------:|--------|
-|1|[Introduction](slides/lecture1.pdf)||||
-|2|[You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=a1zDuOPkMSw)|HW1: Essay|
-|3|[How to Write a Great Research Paper](assets/simon-papers.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=WP-FkUaOcOM)|HW2: Essay|
-|4|[How to Write Papers So People Can Read Them](assets/talk-plmw16.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=KfEVdMMY1aQ)|HW3: Essay|
-|5|Paper Writing, Review, and Discussion||[HW4: Write your quick sort paper](quicksort.md)|
-|6|[How to Give a Great Research Talk](assets/simon-talks.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=sT_-owjKIbA)|HW3: Essay|
-|7|Research Talk||HW5: Present your quick sort|
-|8|[How to Write a Grant Proposal Talk](assets/simon-proposal.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=nEuK54bo6RE)|HW6: Essay |
-|9|Project Proposal Presentation (1)||HW7: Project Proposal|
-|10|Project Proposal Presentation (2)|||
-|11|Paper Presentation||HW8: Paper Review|
-|12|Final Project Presentation|||
+|Date|Topics|Watching|Homework|
+|----|------|:--------------:|--------|
+|2/27|[Introduction](slides/lecture1.pdf)|||
+|2/29|[You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=a1zDuOPkMSw)||
+|3/5 |Discussion||HW1: Essay (due: 3/3 23:59:59)|
+|3/7 |[How to Write a Great Research Paper](assets/simon-papers.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=WP-FkUaOcOM)||
+|3/12|[How to Write Papers So People Can Read Them](assets/talk-plmw16.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=KfEVdMMY1aQ)||
+|3/14|Discussion||[HW2: Your quick sort paper](quicksort.md) (due: 3/12 23:59:59)|
+|3/19|[How to Give a Great Research Talk](assets/simon-talks.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=sT_-owjKIbA)||
+|3/21|Research Talk 1||HW3: Essay (due: 3/19 23:59:59)|
+|3/26|Research Talk 2|||
+|3/28|Research Talk 3|||
+|4/2 |[How to Write a Grant Proposal Talk](assets/simon-proposal.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=nEuK54bo6RE)||
+|4/4 |Project Proposal Talk 1||HW4: Project Proposal (due: 4/2 23:59:59)|
+|4/9 |Project Proposal Talk 2|||
+|4/11 |Project Proposal Talk 3|||
+|4/16|Mid term week (no class)|||
+|4/18|Mid term week (no class)|||
+|4/23 |Paper Presentation 1|||
+|4/25 |Paper Presentation 2|||
+|4/30 |Paper Presentation 3|||
+|5/2 |Paper Presentation 4|||
+|5/7 |Paper Presentation 5|||
+|5/9 |Paper Presentation 6|||
+|5/14 |Paper Presentation 7|||
+|5/16 |Final Project Presentation 1|||
+|5/21 |Final Project Presentation 2|||
+|5/23 |Final Project Presentation 3|||
+|5/28 |Final Project Presentation 4|||
+|5/30 |Final Project Presentation 5|||
+|6/4|Final Project Presentation 6|||
+|6/6|현충일 (Memorial Day)|||
+|6/11 |Final Project Presenation 7|||
 
 ## Papers
 ### Program Analysis & Testing
