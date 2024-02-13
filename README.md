@@ -90,8 +90,16 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 
 ## Papers
 ### Program Analysis & Testing
+- [On-The-Fly Static Analysis via Dynamic Bidirected Dyck Reachability, POPL'24](https://arxiv.org/abs/2311.04319)
+- [UBfuzz: Finding Bugs in Sanitizer Implementations, ASPLOS'24](https://arxiv.org/abs/2401.04538)
 - [Abstract Interpretation of Fixpoint Iterators with Applications to Neural Networks, PLDI'23](https://arxiv.org/abs/2110.08260)
 - [Compiler Test-Program Generation via Memoized Configuration Search, ICSE'23](https://ieeexplore.ieee.org/document/10172512)
+- [Return of CFA: Call-Site Sensitivity Can Be Superior to Object Sensitivity Even for Object-Oriented Programs, POPL'22](https://dl.acm.org/doi/abs/10.1145/3498720)
+- [Finding Real Bugs in Big Programs with Incorrectness Logic, OOPSLA'22](https://dl.acm.org/doi/10.1145/3527325)
+- [Demanded Abstract Interpretation, PLDI'21](https://dl.acm.org/doi/10.1145/3453483.3454044)
+- [Incremental Whole-Program Analysis in Datalog with Lattices, PLDI'21](https://dl.acm.org/doi/10.1145/3453483.3454026)
+- [Abacus: Precise Side-Channel Analysis, ICSE'21](https://ieeexplore.ieee.org/document/9402127)
+- [Incorrectness logic, POPL'20](https://dl.acm.org/doi/10.1145/3371078)
 
 ### Program Verification
 - [Formally Verified Native Code Generation in an Effectful JIT: Turning the CompCert Backend into a Formally Verified JIT Compiler, POPL'23](https://dl.acm.org/doi/abs/10.1145/3571202)
@@ -99,12 +107,16 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 - [Towards a Verified Range Analysis for JavaScript JITs, PLDI'20](https://www.cs.utexas.edu/~hovav/dist/vera.pdf)
 
 ### Program Synthesis
-- [babble: Learning Better Abstractions with E-Graphs and Anti-unification,POPL'23](https://dl.acm.org/doi/abs/10.1145/3571207)
+- [Optimal Program Synthesis via Abstract Interpretation, POPL'24](https://dl.acm.org/doi/10.1145/3632858)
+- [babble: Learning Better Abstractions with E-Graphs and Anti-unification, POPL'23](https://dl.acm.org/doi/abs/10.1145/3571207)
 - [FlashFill++: Scaling Programming by Example by Cutting to the Chase, POPL'23](https://dl.acm.org/doi/abs/10.1145/3571226)
 - [Inductive Synthesis of Structurally Recursive Functional Programs from Non-recursive Expressions, POPL'23](https://dl.acm.org/doi/abs/10.1145/3571263)
 - [DPGen: Automated Program Synthesis for Differential Privacy, CCS'21](https://arxiv.org/abs/2109.07441)
 - [Data-Driven Synthesis of Provably Sound Side Channel Analyses, ICSE'21](https://ieeexplore.ieee.org/document/9402113)
 - [Optimizing Homomorphic Evaluation Circuits by Program Synthesis and Term Rewriting, PLDI'20](https://dl.acm.org/doi/abs/10.1145/3385412.3385996)
 
-### AI-based Programming Systems
+### AI-based Programming Systems & Large Language Models
+- [Large Language Models for Code: Security Hardening and Adversarial Testing, CCS'23](https://arxiv.org/abs/2302.05319)
+- [Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context, NeurIPS'23](https://openreview.net/forum?id=qPUbKxKvXq&noteId=98Ukj82fSP)
 - [Prompting Is Programming: A Query Language for Large Language Models, PLDI'23](https://dl.acm.org/doi/abs/10.1145/3591300)
+- [Scallop: A Language for Neurosymbolic Programming, PLDI'23](https://dl.acm.org/doi/10.1145/3591280)
