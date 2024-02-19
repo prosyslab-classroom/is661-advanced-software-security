@@ -18,7 +18,7 @@ talk, and review a research paper. Students will propose and complete
 a research project during the semester.
 
 ## Grading
-- Paper review: 40%
+- Homework: 40%
 - Final project: 50%
 - Participation: 10%
 
