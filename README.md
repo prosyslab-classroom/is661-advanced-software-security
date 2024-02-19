@@ -78,7 +78,7 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |5/2 |Paper Presentation 4|||
 |5/7 |Paper Presentation 5|||
 |5/9 |Paper Presentation 6|||
-|5/14 |Paper Presentation 7|||
+|5/14 |Paper Presentation 7||HW7: Paper Review (due: 5/14 23:59:59)|
 |5/16 |Final Project Presentation 1|||
 |5/21 |Final Project Presentation 2|||
 |5/23 |Final Project Presentation 3|||
