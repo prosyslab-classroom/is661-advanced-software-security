@@ -86,7 +86,7 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |5/30 |Final Project Presentation 5|||
 |6/4|Final Project Presentation 6|||
 |6/6|현충일 (Memorial Day)|||
-|6/11 |Final Project Presenation 7|||
+|6/11 |Final Project Presenation 7||Project: Paper (due: 6/11 23:59:59)|
 
 ## Papers
 ### Program Analysis & Testing
