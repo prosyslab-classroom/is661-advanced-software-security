@@ -9,14 +9,14 @@
 당신의 아이디어를 논문으로 정리하여 모두에게 전파하고 그들을 설득하라. 시간이 없다.
 
 #### (Eng Ver.)
-In the year 2024 of an alternate parallel world, humanity has yet to discover Quicksort,
+In the year 2024 an alternate parallel world, humanity has yet to discover Quicksort,
 relying on inefficient data processing methods on a large scale.
 Despite technological advancements in the internet, smartphones, AI, and other areas,
 the sorting technology in this world remains at the level of the 1950s. Inefficient data
 processing has led to an increase in computational load, resulting in a colossal waste of energy.
 As a consequence, global warming has reached a critical point, and the Earth's future is uncertain within the next five years.
 
-One day, you, a graduate student at KAIST, successfully develop the fastest sorting algorithm after three years of research,
+One day, you, a graduate student at KAIST, successfully developed the fastest sorting algorithm after three years of research,
 naming it Quick Sort. Now, your task is to widely publicize this great achievement, saving the world.
 
 Write a research paper describing your ideas, spread it to everyone, and persuade them. Time is of the essence.
