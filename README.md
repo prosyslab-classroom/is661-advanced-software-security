@@ -64,7 +64,7 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |    |[Data Visualization](assets/data-viz.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=Hfx1X9WSGYQ)||
 |3/14|Discussion||[HW2: Your quick sort paper](quicksort.md) (due: 3/12 23:59:59)|
 |3/19|[How to Give a Great Research Talk](assets/simon-talks.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=sT_-owjKIbA)||
-|3/21|Research Talk 1||HW3: Review (due: 3/19 23:59:59)|
+|3/21|Research Talk 1||HW3: Review (due: 3/21 23:59:59)|
 |3/26|Research Talk 2|||
 |3/28|Research Talk 3|||
 |4/2 |[How to Write a Grant Proposal](assets/simon-proposal.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=nEuK54bo6RE)||
