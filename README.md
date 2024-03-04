@@ -61,12 +61,13 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |3/5 |Discussion||HW1: Essay (due: 3/3 23:59:59)|
 |3/7 |[How to Write a Great Research Paper](assets/simon-papers.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=WP-FkUaOcOM)||
 |3/12|[How to Write Papers So People Can Read Them](assets/talk-plmw16.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=KfEVdMMY1aQ)||
+|    |[Data Visualization](assets/data-viz.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=Hfx1X9WSGYQ)||
 |3/14|Discussion||[HW2: Your quick sort paper](quicksort.md) (due: 3/12 23:59:59)|
 |3/19|[How to Give a Great Research Talk](assets/simon-talks.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=sT_-owjKIbA)||
 |3/21|Research Talk 1||HW3: Review (due: 3/19 23:59:59)|
 |3/26|Research Talk 2|||
 |3/28|Research Talk 3||HW4: Essay (due: 3/26 23:59:59)|
-|4/2 |[How to Write a Grant Proposal Talk](assets/simon-proposal.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=nEuK54bo6RE)||
+|4/2 |[How to Write a Grant Proposal](assets/simon-proposal.pdf)|[<img src="icons/youtube.png" width="16" />](https://www.youtube.com/watch?v=nEuK54bo6RE)||
 |4/4 |Project Proposal Talk 1||HW5: Project Proposal (due: 4/2 23:59:59)|
 |4/9 |Project Proposal Talk 2|||
 |4/11 |Project Proposal Talk 3|||
