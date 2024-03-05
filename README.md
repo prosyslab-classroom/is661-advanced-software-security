@@ -24,8 +24,8 @@ a research project during the semester.
 
 ## Project Theme: Understandable & Explainable Programming Systems
 Observation is the beginning of all sciences.
-For example, Heliocentrism, one of the most important scientific discovery,
-started from several critical observation by Galileo Galilei.
+For example, Heliocentrism, one of the most important scientific discoveries,
+started from several critical observations by Galileo Galilei.
 This observation led to the development of modern astronomy.
 Computer science is no exception.
 Only when we observe the behavior of large and complicated software systems,
@@ -52,6 +52,9 @@ We use [HotCRP](https://kaist-asos2024.hotcrp.com).
 ## Academic Integrity Violation
 Students who violate academic integrity will get an F.
 See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEvq6R0G6n3Cz7jKX16RWvDy2giBKm8EVJtQHUBJoDA/viewform).
+
+## Hall of Fame
+Visit [this page](hof.md) and have fun with student artifacts.
 
 ## Schedule
 |Date|Topics|Watching|Homework|
@@ -87,7 +90,7 @@ See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEv
 |5/30 |Final Project Presentation 5|||
 |6/4|Final Project Presentation 6|||
 |6/6|현충일 (Memorial Day)|||
-|6/11 |Final Project Presenation 7||Project: Paper (due: 6/11 23:59:59)|
+|6/11 |Final Project Presentation 7||Project: Paper (due: 6/11 23:59:59)|
 
 ## Papers
 ### Program Analysis & Testing
