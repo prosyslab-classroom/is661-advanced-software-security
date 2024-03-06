@@ -10,3 +10,4 @@
 - [〈당신과 당신의 연구〉의 비판 - 박해준](assignment/2024/hw1-HaejoonPark.pdf)
 - [최고의 연구자가 되기 위해 필요한 것들 - 박건](assignment/2024/hw1-GeonPark.pdf)
 - [훌륭한 동기에 훌륭한 연구가 깃든다 - 김태은](assignment/2024/hw1-TaeeunKim.pdf)
+- [좋은 사람만이 좋은 연구자가 될 수 있다 - 주현민](assignment/2024/hw1-HyunminJu.pdf)
