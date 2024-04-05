@@ -74,7 +74,7 @@ Visit [this page](hof.md) and have fun with student artifacts.
 |4/4 |Project Proposal Talk 1||HW4: Project Proposal (due: 4/2 23:59:59)|
 |4/9 |Project Proposal Talk 2|||
 |4/11 |Project Proposal Talk 3|||
-|4/16|Mid term week (no class)||HW5: Project Proposal Review (due: 4/16 23:59:59)|
+|4/16|Mid term week (no class)|||
 |4/18|Mid term week (no class)|||
 |4/23 |Paper Presentation 1|||
 |4/25 |Paper Presentation 2|||
@@ -82,7 +82,7 @@ Visit [this page](hof.md) and have fun with student artifacts.
 |5/2 |Paper Presentation 4|||
 |5/7 |Paper Presentation 5|||
 |5/9 |Paper Presentation 6|||
-|5/14 |Paper Presentation 7||HW6: Paper Review (due: 5/14 23:59:59)|
+|5/14 |Paper Presentation 7||HW5: Paper Review (due: 5/14 23:59:59)|
 |5/16 |Final Project Presentation 1|||
 |5/21 |Final Project Presentation 2|||
 |5/23 |Final Project Presentation 3|||
