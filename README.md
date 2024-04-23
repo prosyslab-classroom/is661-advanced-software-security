@@ -88,9 +88,6 @@ Visit [this page](hof.md) and have fun with student artifacts.
 |5/23 |Final Project Presentation 3|||
 |5/28 |Final Project Presentation 4|||
 |5/30 |Final Project Presentation 5||Project: Paper (due: 6/1 23:59:59)|
-|6/4|Final Project Presentation 6|||
-|6/6|현충일 (Memorial Day)|||
-|6/11 |Final Project Presentation 7|||
 
 ## Papers
 ### Program Analysis & Testing
