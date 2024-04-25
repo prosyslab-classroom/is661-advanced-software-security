@@ -12,3 +12,43 @@
 - [훌륭한 동기에 훌륭한 연구가 깃든다 - 김태은](assignment/2024/hw1-TaeeunKim.pdf)
 - [좋은 사람만이 좋은 연구자가 될 수 있다 - 주현민](assignment/2024/hw1-HyunminJu.pdf)
 - [My research - 박상준](assignment/2024/hw1-SangjunPark.pdf)
+
+## Project proposal talk
+
+| Title | Name | Slide |
+|-------|------|-------|
+| | 장재훈 | |
+| | 박상준 | |
+| | 권재성 | |
+| | Steve Gustaman | |
+| | 박해준 | |
+| | 김태은 | |
+| | 박건 | |
+| | 윤형준 | |
+| | 이동재 | |
+| | 김정현 | |
+
+## Paper presentation
+
+| Paper | Name | Slide |
+|-------|------|-------|
+| On-The-Fly Static Analysis via Dynamic Bidirected Dyck Reachability                                                              | 김정현         |  |
+| UBfuzz: Finding Bugs in Sanitizer Implementations                                                                                | Steve Gustaman |  |
+| Abstract Interpretation of Fixpoint Iterators with Applications to Neural Networks                                               | 박상준         |  |
+| Compiler Test-Program Generation via Memoized Configuration Search                                                               | 박해준         |  |
+| Return of CFA: Call-Site Sensitivity Can Be Superior to Object Sensitivity Even for Object-Oriented Programs                     | 윤형준         |  |
+| Finding Real Bugs in Big Programs with Incorrectness Logic                                                                       | 김태은         |  |
+| Incremental Whole-Program Analysis in Datalog with Lattices                                                                      | 장재훈         |  |
+| Alive2: bounded translation validation for LLVM                                                                                  | 권재성         |  |
+| Optimal Program Synthesis via Abstract Interpretation                                                                            | 박건           |  |
+| Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context                                                   | 이동재         |  |
+| Demanded Abstract Interpretation                                                                                                 | 김정현         |  |
+| Incorrectness logic                                                                                                              | 박해준         |  |
+| Formally Verified Native Code Generation in an Effectful JIT: Turning the CompCert Backend into a Formally Verified JIT Compiler | 박상준         |  |
+| Towards a Verified Range Analysis for JavaScript JITs                                                                            | Steve Gustaman |  |
+| FlashFill++: Scaling Programming by Example by Cutting to the Chase                                                              | 김태은         |  |
+| Inductive Synthesis of Structurally Recursive Functional Programs from Non-recursive Expressions                                 | 장재훈         |  |
+| babble: Learning Better Abstractions with E-Graphs and Anti-unification                                                          | 권재성         |  |
+| Data-Driven Synthesis of Provably Sound Side Channel Analyses                                                                    | 윤형준         |  |
+| Optimizing Homomorphic Evaluation Circuits by Program Synthesis and Term Rewriting                                               | 박건           |  |
+| Prompting Is Programming: A Query Language for Large Language Models                                                             | 이동재         |  |
