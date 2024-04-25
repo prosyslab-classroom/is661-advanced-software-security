@@ -37,7 +37,7 @@
 | Abstract Interpretation of Fixpoint Iterators with Applications to Neural Networks                                               | 박상준         |  |
 | Compiler Test-Program Generation via Memoized Configuration Search                                                               | 박해준         |  |
 | Return of CFA: Call-Site Sensitivity Can Be Superior to Object Sensitivity Even for Object-Oriented Programs                     | 윤형준         |  |
-| Finding Real Bugs in Big Programs with Incorrectness Logic                                                                       | 김태은         |  |
+| Finding Real Bugs in Big Programs with Incorrectness Logic                                                                       | 김태은         | [slide](assignment/2024/paper1-TaeeunKim.pdf) |
 | Incremental Whole-Program Analysis in Datalog with Lattices                                                                      | 장재훈         |  |
 | Alive2: bounded translation validation for LLVM                                                                                  | 권재성         |  |
 | Optimal Program Synthesis via Abstract Interpretation                                                                            | 박건           |  |
