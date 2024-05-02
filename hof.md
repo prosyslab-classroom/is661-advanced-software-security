@@ -20,7 +20,7 @@
 | | 장재훈 | |
 | | 박상준 | |
 | | 권재성 | |
-| | Steve Gustaman | |
+| | Steve Gustaman | [slide](assignment/2024/proposal-SteveGustaman.pdf) |
 | | 박해준 | |
 | | 김태은 | |
 | | 박건 | |
@@ -33,7 +33,7 @@
 | Paper | Name | Slide |
 |-------|------|-------|
 | On-The-Fly Static Analysis via Dynamic Bidirected Dyck Reachability                                                              | 김정현         |  |
-| UBfuzz: Finding Bugs in Sanitizer Implementations                                                                                | Steve Gustaman |  |
+| UBfuzz: Finding Bugs in Sanitizer Implementations                                                                                | Steve Gustaman | [slide](assignment/2024/paper1-SteveGustaman.pdf) |
 | Abstract Interpretation of Fixpoint Iterators with Applications to Neural Networks                                               | 박상준         |  |
 | Compiler Test-Program Generation via Memoized Configuration Search                                                               | 박해준         |  |
 | Return of CFA: Call-Site Sensitivity Can Be Superior to Object Sensitivity Even for Object-Oriented Programs                     | 윤형준         |  |
