@@ -41,7 +41,7 @@
 | Incremental Whole-Program Analysis in Datalog with Lattices                                                                      | 장재훈         |  |
 | Alive2: bounded translation validation for LLVM                                                                                  | 권재성         |  |
 | Optimal Program Synthesis via Abstract Interpretation                                                                            | 박건           |  |
-| Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context                                                   | 이동재         |  |
+| Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context                                                   | 이동재         | [slide](assignment/2024/paper1-DongjaeLee.pdf) |
 | Demanded Abstract Interpretation                                                                                                 | 김정현         |  |
 | Incorrectness logic                                                                                                              | 박해준         |  |
 | Formally Verified Native Code Generation in an Effectful JIT: Turning the CompCert Backend into a Formally Verified JIT Compiler | 박상준         |  |
