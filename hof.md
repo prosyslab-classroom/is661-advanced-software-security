@@ -19,8 +19,7 @@
 |-------|------|-------|
 | | 장재훈 | |
 | | 박상준 | |
-| Visualize Optimization-directed Fuzzing
-for Effective Optimization Testing | 권재성 | [slide](assignment/2024/proposal-JaeseongKwon.pdf) |
+| Visualize Optimization-directed Fuzzing for Effective Optimization Testing | 권재성 | [slide](assignment/2024/proposal-JaeseongKwon.pdf) |
 | | Steve Gustaman | |
 | | 박해준 | |
 | | 김태은 | |
