@@ -23,7 +23,7 @@
 | | Steve Gustaman | |
 | | 박해준 | |
 | GeneVis: A Genealogical Visualization Tool for Directed Grey-box Fuzzing | 김태은 | [slide](assignment/2024/proposal-TaeeunKim.pdf) |
-| | 박건 | |
+| Visualizing Fuzzing Status on Def-Use Graph and its impact | 박건 | [slide](assignment/2024/proposal-GeonPark.pdf) |
 | | 윤형준 | |
 | Atten-Scope: A Tool for Interpreting Large Language Model | 이동재 | [slide](assignment/2024/proposal-DongjaeLee.pdf) |
 | | 김정현 | |
@@ -40,7 +40,7 @@
 | Finding Real Bugs in Big Programs with Incorrectness Logic                                                                       | 김태은         | [slide](assignment/2024/paper1-TaeeunKim.pdf) |
 | Incremental Whole-Program Analysis in Datalog with Lattices                                                                      | 장재훈         |  |
 | Alive2: bounded translation validation for LLVM                                                                                  | 권재성         | [slide](assignment/2024/paper1-JaeseongKwon.pdf) |
-| Optimal Program Synthesis via Abstract Interpretation                                                                            | 박건           |  |
+| Optimal Program Synthesis via Abstract Interpretation                                                                            | 박건           | [slide](assignment/2024/paper1-GeonPark.pdf) |
 | Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context                                                   | 이동재         | [slide](assignment/2024/paper1-DongjaeLee.pdf) |
 | Demanded Abstract Interpretation                                                                                                 | 김정현         |  |
 | Incorrectness logic                                                                                                              | 박해준         |  |
