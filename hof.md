@@ -25,7 +25,7 @@
 | GeneVis: A Genealogical Visualization Tool for Directed Grey-box Fuzzing | 김태은 | [slide](assignment/2024/proposal-TaeeunKim.pdf) |
 | | 박건 | |
 | | 윤형준 | |
-| | 이동재 | |
+| Atten-Scope: A Tool for Interpreting Large Language Model | 이동재 | [slide](assignment/2024/proposal-DongjaeLee.pdf) |
 | | 김정현 | |
 
 ## Paper presentation
