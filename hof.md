@@ -17,7 +17,7 @@
 
 | Title | Name | Slide |
 |-------|------|-------|
-| | 장재훈 | |
+| CodeFlowVis: Visualizer of Code Coverage and Execution Flow | 장재훈 | [slide](assignment/2024/proposal-JaehoonJang.pdf) |
 | | 박상준 | |
 | | 권재성 | |
 | | Steve Gustaman | |
