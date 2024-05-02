@@ -19,7 +19,7 @@
 |-------|------|-------|
 | | 장재훈 | |
 | | 박상준 | |
-| | 권재성 | |
+| Visualize Optimization-directed Fuzzing for Effective Optimization Testing | 권재성 | [slide](assignment/2024/proposal-JaeseongKwon.pdf) |
 | | Steve Gustaman | |
 | | 박해준 | |
 | GeneVis: A Genealogical Visualization Tool for Directed Grey-box Fuzzing | 김태은 | [slide](assignment/2024/proposal-TaeeunKim.pdf) |
@@ -39,7 +39,7 @@
 | Return of CFA: Call-Site Sensitivity Can Be Superior to Object Sensitivity Even for Object-Oriented Programs                     | 윤형준         |  |
 | Finding Real Bugs in Big Programs with Incorrectness Logic                                                                       | 김태은         | [slide](assignment/2024/paper1-TaeeunKim.pdf) |
 | Incremental Whole-Program Analysis in Datalog with Lattices                                                                      | 장재훈         |  |
-| Alive2: bounded translation validation for LLVM                                                                                  | 권재성         |  |
+| Alive2: bounded translation validation for LLVM                                                                                  | 권재성         | [slide](assignment/2024/paper1-JaeseongKwon.pdf) |
 | Optimal Program Synthesis via Abstract Interpretation                                                                            | 박건           |  |
 | Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context                                                   | 이동재         |  |
 | Demanded Abstract Interpretation                                                                                                 | 김정현         |  |
