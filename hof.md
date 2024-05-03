@@ -19,13 +19,13 @@
 |-------|------|-------|
 | CodeFlowVis: Visualizer of Code Coverage and Execution Flow | 장재훈 | [slide](assignment/2024/proposal-JaehoonJang.pdf) |
 | | 박상준 | |
-| | 권재성 | |
-| | Steve Gustaman | |
+| Visualize Optimization-directed Fuzzing for Effective Optimization Testing | 권재성 | [slide](assignment/2024/proposal-JaeseongKwon.pdf) |
+| StateFuzzVis: State-coverage Guided Fuzzer Visualizer | Steve Gustaman | [slide](assignment/2024/proposal-SteveGustaman.pdf) |
 | | 박해준 | |
-| | 김태은 | |
-| | 박건 | |
+| GeneVis: A Genealogical Visualization Tool for Directed Grey-box Fuzzing | 김태은 | [slide](assignment/2024/proposal-TaeeunKim.pdf) |
+| Visualizing Fuzzing Status on Def-Use Graph and its impact | 박건 | [slide](assignment/2024/proposal-GeonPark.pdf) |
 | | 윤형준 | |
-| | 이동재 | |
+| Atten-Scope: A Tool for Interpreting Large Language Model | 이동재 | [slide](assignment/2024/proposal-DongjaeLee.pdf) |
 | | 김정현 | |
 
 ## Paper presentation
@@ -33,15 +33,15 @@
 | Paper | Name | Slide |
 |-------|------|-------|
 | On-The-Fly Static Analysis via Dynamic Bidirected Dyck Reachability                                                              | 김정현         |  |
-| UBfuzz: Finding Bugs in Sanitizer Implementations                                                                                | Steve Gustaman |  |
+| UBfuzz: Finding Bugs in Sanitizer Implementations                                                                                | Steve Gustaman | [slide](assignment/2024/paper1-SteveGustaman.pdf) |
 | Abstract Interpretation of Fixpoint Iterators with Applications to Neural Networks                                               | 박상준         |  |
 | Compiler Test-Program Generation via Memoized Configuration Search                                                               | 박해준         |  |
 | Return of CFA: Call-Site Sensitivity Can Be Superior to Object Sensitivity Even for Object-Oriented Programs                     | 윤형준         |  |
-| Finding Real Bugs in Big Programs with Incorrectness Logic                                                                       | 김태은         |  |
+| Finding Real Bugs in Big Programs with Incorrectness Logic                                                                       | 김태은         | [slide](assignment/2024/paper1-TaeeunKim.pdf) |
 | Incremental Whole-Program Analysis in Datalog with Lattices                                                                      | 장재훈         | [slide](assignment/2024/paper1-JaehoonJang.pdf) |
-| Alive2: bounded translation validation for LLVM                                                                                  | 권재성         |  |
-| Optimal Program Synthesis via Abstract Interpretation                                                                            | 박건           |  |
-| Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context                                                   | 이동재         |  |
+| Alive2: bounded translation validation for LLVM                                                                                  | 권재성         | [slide](assignment/2024/paper1-JaeseongKwon.pdf) |
+| Optimal Program Synthesis via Abstract Interpretation                                                                            | 박건           | [slide](assignment/2024/paper1-GeonPark.pdf) |
+| Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context                                                   | 이동재         | [slide](assignment/2024/paper1-DongjaeLee.pdf) |
 | Demanded Abstract Interpretation                                                                                                 | 김정현         |  |
 | Incorrectness logic                                                                                                              | 박해준         |  |
 | Formally Verified Native Code Generation in an Effectful JIT: Turning the CompCert Backend into a Formally Verified JIT Compiler | 박상준         |  |
