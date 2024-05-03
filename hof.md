@@ -26,13 +26,13 @@
 | Visualizing Fuzzing Status on Def-Use Graph and its impact | 박건 | [slide](assignment/2024/proposal-GeonPark.pdf) |
 | | 윤형준 | |
 | Atten-Scope: A Tool for Interpreting Large Language Model | 이동재 | [slide](assignment/2024/proposal-DongjaeLee.pdf) |
-| | 김정현 | |
+| VisualAI: A Framework for Interactive Abstract Interpretation | 김정현 | [slide](assignment/2024/proposal-Jung_Hyun_Kim.pdf) |
 
 ## Paper presentation
 
 | Paper | Name | Slide |
 |-------|------|-------|
-| On-The-Fly Static Analysis via Dynamic Bidirected Dyck Reachability                                                              | 김정현         |  |
+| On-The-Fly Static Analysis via Dynamic Bidirected Dyck Reachability                                                              | 김정현         | [slide](assignment/2024/paper1-Jung_Hyun_Kim.pdf) |
 | UBfuzz: Finding Bugs in Sanitizer Implementations                                                                                | Steve Gustaman | [slide](assignment/2024/paper1-SteveGustaman.pdf) |
 | Abstract Interpretation of Fixpoint Iterators with Applications to Neural Networks                                               | 박상준         |  |
 | Compiler Test-Program Generation via Memoized Configuration Search                                                               | 박해준         | [slide](assignment/2024/paper1-HaejoonPark.pdf) |
