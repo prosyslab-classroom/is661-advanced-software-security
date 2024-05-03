@@ -18,7 +18,7 @@
 | Title | Name | Slide |
 |-------|------|-------|
 | CodeFlowVis: Visualizer of Code Coverage and Execution Flow | 장재훈 | [slide](assignment/2024/proposal-JaehoonJang.pdf) |
-| | 박상준 | |
+| TaintChecker: Tracking the taint propagation on Binary Programs | 박상준 | [slide](assignment/2024/proposal-SangjunPark.pdf)|
 | Visualize Optimization-directed Fuzzing for Effective Optimization Testing | 권재성 | [slide](assignment/2024/proposal-JaeseongKwon.pdf) |
 | StateFuzzVis: State-coverage Guided Fuzzer Visualizer | Steve Gustaman | [slide](assignment/2024/proposal-SteveGustaman.pdf) |
 | Conspicuous Visualizer for Compiler Optimization Fuzzer | 박해준 | [slide](assignment/2024/proposal-HaejoonPark.pdf) |
@@ -34,7 +34,7 @@
 |-------|------|-------|
 | On-The-Fly Static Analysis via Dynamic Bidirected Dyck Reachability                                                              | 김정현         |  |
 | UBfuzz: Finding Bugs in Sanitizer Implementations                                                                                | Steve Gustaman | [slide](assignment/2024/paper1-SteveGustaman.pdf) |
-| Abstract Interpretation of Fixpoint Iterators with Applications to Neural Networks                                               | 박상준         |  |
+| Abstract Interpretation of Fixpoint Iterators with Applications to Neural Networks                                               | 박상준         |  [slide](assignment/2024/paper1-SangjunPark.pdf)|
 | Compiler Test-Program Generation via Memoized Configuration Search                                                               | 박해준         | [slide](assignment/2024/paper1-HaejoonPark.pdf) |
 | Return of CFA: Call-Site Sensitivity Can Be Superior to Object Sensitivity Even for Object-Oriented Programs                     | 윤형준         |  |
 | Finding Real Bugs in Big Programs with Incorrectness Logic                                                                       | 김태은         | [slide](assignment/2024/paper1-TaeeunKim.pdf) |
