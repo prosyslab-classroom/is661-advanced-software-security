@@ -21,7 +21,7 @@
 | | 박상준 | |
 | Visualize Optimization-directed Fuzzing for Effective Optimization Testing | 권재성 | [slide](assignment/2024/proposal-JaeseongKwon.pdf) |
 | StateFuzzVis: State-coverage Guided Fuzzer Visualizer | Steve Gustaman | [slide](assignment/2024/proposal-SteveGustaman.pdf) |
-| | 박해준 | |
+| Conspicuous Visualizer for Compiler Optimization Fuzzer | 박해준 | [slide](assignment/2024/proposal-HaejoonPark.pdf) |
 | GeneVis: A Genealogical Visualization Tool for Directed Grey-box Fuzzing | 김태은 | [slide](assignment/2024/proposal-TaeeunKim.pdf) |
 | Visualizing Fuzzing Status on Def-Use Graph and its impact | 박건 | [slide](assignment/2024/proposal-GeonPark.pdf) |
 | | 윤형준 | |
@@ -35,7 +35,7 @@
 | On-The-Fly Static Analysis via Dynamic Bidirected Dyck Reachability                                                              | 김정현         |  |
 | UBfuzz: Finding Bugs in Sanitizer Implementations                                                                                | Steve Gustaman | [slide](assignment/2024/paper1-SteveGustaman.pdf) |
 | Abstract Interpretation of Fixpoint Iterators with Applications to Neural Networks                                               | 박상준         |  |
-| Compiler Test-Program Generation via Memoized Configuration Search                                                               | 박해준         |  |
+| Compiler Test-Program Generation via Memoized Configuration Search                                                               | 박해준         | [slide](assignment/2024/paper1-HaejoonPark.pdf) |
 | Return of CFA: Call-Site Sensitivity Can Be Superior to Object Sensitivity Even for Object-Oriented Programs                     | 윤형준         |  |
 | Finding Real Bugs in Big Programs with Incorrectness Logic                                                                       | 김태은         | [slide](assignment/2024/paper1-TaeeunKim.pdf) |
 | Incremental Whole-Program Analysis in Datalog with Lattices                                                                      | 장재훈         | [slide](assignment/2024/paper1-JaehoonJang.pdf) |
