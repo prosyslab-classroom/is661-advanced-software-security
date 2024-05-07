@@ -42,7 +42,7 @@
 | Alive2: bounded translation validation for LLVM                                                                                  | 권재성         | [slide](assignment/2024/paper1-JaeseongKwon.pdf) |
 | Optimal Program Synthesis via Abstract Interpretation                                                                            | 박건           | [slide](assignment/2024/paper1-GeonPark.pdf) |
 | Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context                                                   | 이동재         | [slide](assignment/2024/paper1-DongjaeLee.pdf) |
-| Demanded Abstract Interpretation                                                                                                 | 김정현         |  |
+| Demanded Abstract Interpretation                                                                                                 | 김정현         | [slide](assignment/2024/paper2-Jung_Hyun_Kim.pdf) |
 | Incorrectness logic                                                                                                              | 박해준         |  |
 | DPGen: Automated Program Synthesis for Differential Privacy                                                                      | 박상준         | [slide](assignment/2024/paper2-SangjunPark.pdf) |
 | Towards a Verified Range Analysis for JavaScript JITs                                                                            | Steve Gustaman |  |
