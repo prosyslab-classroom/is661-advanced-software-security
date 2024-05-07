@@ -54,7 +54,7 @@ Students who violate academic integrity will get an F.
 See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEvq6R0G6n3Cz7jKX16RWvDy2giBKm8EVJtQHUBJoDA/viewform).
 
 ## Hall of Fame
-Visit [this page](hof.md) and have fun with student artifacts.
+Visit [this page](student_artifacts.md) and have fun with student artifacts.
 
 ## Schedule
 |Date|Topics|Watching|Homework|
