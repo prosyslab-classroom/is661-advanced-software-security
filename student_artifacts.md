@@ -44,7 +44,7 @@
 | Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context                                                   | 이동재         | [slide](assignment/2024/paper1-DongjaeLee.pdf) |
 | Demanded Abstract Interpretation                                                                                                 | 김정현         |  |
 | Incorrectness logic                                                                                                              | 박해준         |  |
-| Formally Verified Native Code Generation in an Effectful JIT: Turning the CompCert Backend into a Formally Verified JIT Compiler | 박상준         |  |
+| Formally Verified Native Code Generation in an Effectful JIT: Turning the CompCert Backend into a Formally Verified JIT Compiler | 박상준         | [slide](assignment/2024/paper2-SangjunPark.pdf) |
 | Towards a Verified Range Analysis for JavaScript JITs                                                                            | Steve Gustaman |  |
 | FlashFill++: Scaling Programming by Example by Cutting to the Chase                                                              | 김태은         | [slide](assignment/2024/paper2-TaeeunKim.pdf) |
 | Inductive Synthesis of Structurally Recursive Functional Programs from Non-recursive Expressions                                 | 장재훈         |  |
