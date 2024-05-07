@@ -46,7 +46,7 @@
 | Incorrectness logic                                                                                                              | 박해준         |  |
 | Formally Verified Native Code Generation in an Effectful JIT: Turning the CompCert Backend into a Formally Verified JIT Compiler | 박상준         |  |
 | Towards a Verified Range Analysis for JavaScript JITs                                                                            | Steve Gustaman |  |
-| FlashFill++: Scaling Programming by Example by Cutting to the Chase                                                              | 김태은         |  |
+| FlashFill++: Scaling Programming by Example by Cutting to the Chase                                                              | 김태은         | [slide](assignment/2024/paper2-TaeeunKim.pdf) |
 | Inductive Synthesis of Structurally Recursive Functional Programs from Non-recursive Expressions                                 | 장재훈         |  |
 | babble: Learning Better Abstractions with E-Graphs and Anti-unification                                                          | 권재성         |  |
 | Data-Driven Synthesis of Provably Sound Side Channel Analyses                                                                    | 윤형준         |  |
