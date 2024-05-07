@@ -45,7 +45,7 @@
 | Demanded Abstract Interpretation                                                                                                 | 김정현         |  |
 | Incorrectness logic                                                                                                              | 박해준         |  |
 | DPGen: Automated Program Synthesis for Differential Privacy                                                                      | 박상준         | [slide](assignment/2024/paper2-SangjunPark.pdf) |
-| Towards a Verified Range Analysis for JavaScript JITs                                                                            | Steve Gustaman |  |
+| Towards a Verified Range Analysis for JavaScript JITs                                                                            | Steve Gustaman | [slide](assignment/2024/paper2-SteveGustaman.pdf) |
 | FlashFill++: Scaling Programming by Example by Cutting to the Chase                                                              | 김태은         | [slide](assignment/2024/paper2-TaeeunKim.pdf) |
 | Inductive Synthesis of Structurally Recursive Functional Programs from Non-recursive Expressions                                 | 장재훈         |  |
 | babble: Learning Better Abstractions with E-Graphs and Anti-unification                                                          | 권재성         |  |
