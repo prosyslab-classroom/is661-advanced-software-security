@@ -84,10 +84,11 @@ Visit [this page](student_artifacts.md) and have fun with student artifacts.
 |5/9 |Paper Presentation 6|||
 |5/14 |Paper Presentation 7||HW5: Paper Review (due: 5/14 23:59:59)|
 |5/16 |Final Project Presentation 1|||
-|5/21 |Final Project Presentation 2|||
-|5/23 |Final Project Presentation 3|||
-|5/28 |Final Project Presentation 4|||
-|5/30 |Final Project Presentation 5||Project: Paper (due: 6/1 23:59:59)|
+|5/21 |No Class|||
+|5/23 |Final Project Presentation 2|||
+|5/28 |Final Project Presentation 3|||
+|5/30 |Final Project Presentation 4|||
+|6/4 |Final Project Presentation 5||Project: Paper (due: 6/5 23:59:59)|
 
 ## Papers
 ### Program Analysis & Testing
