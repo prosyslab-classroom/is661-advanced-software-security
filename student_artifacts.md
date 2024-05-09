@@ -47,7 +47,7 @@
 | DPGen: Automated Program Synthesis for Differential Privacy                                                                      | 박상준         | [slide](assignment/2024/paper2-SangjunPark.pdf) |
 | Towards a Verified Range Analysis for JavaScript JITs                                                                            | Steve Gustaman | [slide](assignment/2024/paper2-SteveGustaman.pdf) |
 | FlashFill++: Scaling Programming by Example by Cutting to the Chase                                                              | 김태은         | [slide](assignment/2024/paper2-TaeeunKim.pdf) |
-| Inductive Synthesis of Structurally Recursive Functional Programs from Non-recursive Expressions                                 | 장재훈         |  |
+| Inductive Synthesis of Structurally Recursive Functional Programs from Non-recursive Expressions                                 | 장재훈         | [slide](assignment/2024/paper2-JaehoonJang.pdf) |
 | babble: Learning Better Abstractions with E-Graphs and Anti-unification                                                          | 권재성         |  |
 | Data-Driven Synthesis of Provably Sound Side Channel Analyses                                                                    | 윤형준         |  |
 | Optimizing Homomorphic Evaluation Circuits by Program Synthesis and Term Rewriting                                               | 박건           |  |
