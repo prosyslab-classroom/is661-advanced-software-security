@@ -53,7 +53,7 @@ We use [HotCRP](https://kaist-asos2024.hotcrp.com).
 Students who violate academic integrity will get an F.
 See [the KAIST CS honor code](https://docs.google.com/forms/d/e/1FAIpQLSdSn63tEvq6R0G6n3Cz7jKX16RWvDy2giBKm8EVJtQHUBJoDA/viewform).
 
-## Hall of Fame
+## Student Artifacts
 Visit [this page](student_artifacts.md) and have fun with student artifacts.
 
 ## Schedule
