@@ -18,7 +18,7 @@
 | Title | Name | Proposal | Final presentation |
 |-------|:----:|:--------:|:------------------:|
 | CodeFlowVis: Visualizer of Code Coverage and Execution Flow | 장재훈 | [slide](assignment/2024/proposal-JaehoonJang.pdf) | [slide](assignment/2024/final-JaehoonJang.pdf) |
-| TaintChecker: Tracking the taint propagation on Binary Programs | 박상준 | [slide](assignment/2024/proposal-SangjunPark.pdf)| |
+| TaintChecker: Tracking the taint propagation on Binary Programs | 박상준 | [slide](assignment/2024/proposal-SangjunPark.pdf)|[slide](assignment/2024/final-SangjunPark.pdf) |
 | Visualize Optimization-directed Fuzzing for Effective Optimization Testing | 권재성 | [slide](assignment/2024/proposal-JaeseongKwon.pdf) | |
 | StateFuzzVis: State-coverage Guided Fuzzer Visualizer | Steve Gustaman | [slide](assignment/2024/proposal-SteveGustaman.pdf) | |
 | Conspicuous Visualizer for Compiler Optimization Fuzzer | 박해준 | [slide](assignment/2024/proposal-HaejoonPark.pdf) | |
