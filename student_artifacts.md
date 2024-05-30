@@ -13,20 +13,20 @@
 - [좋은 사람만이 좋은 연구자가 될 수 있다 - 주현민](assignment/2024/hw1-HyunminJu.pdf)
 - [My research - 박상준](assignment/2024/hw1-SangjunPark.pdf)
 
-## Project proposal talk
+## Final project
 
-| Title | Name | Slide |
-|-------|------|-------|
-| CodeFlowVis: Visualizer of Code Coverage and Execution Flow | 장재훈 | [slide](assignment/2024/proposal-JaehoonJang.pdf) |
-| TaintChecker: Tracking the taint propagation on Binary Programs | 박상준 | [slide](assignment/2024/proposal-SangjunPark.pdf)|
-| Visualize Optimization-directed Fuzzing for Effective Optimization Testing | 권재성 | [slide](assignment/2024/proposal-JaeseongKwon.pdf) |
-| StateFuzzVis: State-coverage Guided Fuzzer Visualizer | Steve Gustaman | [slide](assignment/2024/proposal-SteveGustaman.pdf) |
-| Conspicuous Visualizer for Compiler Optimization Fuzzer | 박해준 | [slide](assignment/2024/proposal-HaejoonPark.pdf) |
-| GeneVis: A Genealogical Visualization Tool for Directed Grey-box Fuzzing | 김태은 | [slide](assignment/2024/proposal-TaeeunKim.pdf) |
-| Visualizing Fuzzing Status on Def-Use Graph and its impact | 박건 | [slide](assignment/2024/proposal-GeonPark.pdf) |
-| QuickBinDiff: Efficient Binary Code Diff Tool Based on Command Line Interface | 윤형준 | [slide](assignment/2024/proposal-HyungjoonYoon.pdf) |
-| Atten-Scope: A Tool for Interpreting Large Language Model | 이동재 | [slide](assignment/2024/proposal-DongjaeLee.pdf) |
-| VisualAI: A Framework for Interactive Abstract Interpretation | 김정현 | [slide](assignment/2024/proposal-Jung_Hyun_Kim.pdf) |
+| Title | Name | Proposal | Final presentation |
+|-------|:----:|:--------:|:------------------:|
+| CodeFlowVis: Visualizer of Code Coverage and Execution Flow | 장재훈 | [slide](assignment/2024/proposal-JaehoonJang.pdf) | |
+| TaintChecker: Tracking the taint propagation on Binary Programs | 박상준 | [slide](assignment/2024/proposal-SangjunPark.pdf)| |
+| Visualize Optimization-directed Fuzzing for Effective Optimization Testing | 권재성 | [slide](assignment/2024/proposal-JaeseongKwon.pdf) | |
+| StateFuzzVis: State-coverage Guided Fuzzer Visualizer | Steve Gustaman | [slide](assignment/2024/proposal-SteveGustaman.pdf) | |
+| Conspicuous Visualizer for Compiler Optimization Fuzzer | 박해준 | [slide](assignment/2024/proposal-HaejoonPark.pdf) | |
+| GeneVis: A Genealogical Visualization Tool for Directed Grey-box Fuzzing | 김태은 | [slide](assignment/2024/proposal-TaeeunKim.pdf) | |
+| Visualizing Fuzzing Status on Def-Use Graph and its impact | 박건 | [slide](assignment/2024/proposal-GeonPark.pdf) | |
+| QuickBinDiff: Efficient Binary Code Diff Tool Based on Command Line Interface | 윤형준 | [slide](assignment/2024/proposal-HyungjoonYoon.pdf) | |
+| Atten-Scope: A Tool for Interpreting Large Language Model | 이동재 | [slide](assignment/2024/proposal-DongjaeLee.pdf) | |
+| VisualAI: A Framework for Interactive Abstract Interpretation | 김정현 | [slide](assignment/2024/proposal-Jung_Hyun_Kim.pdf) | |
 
 ## Paper presentation
 
