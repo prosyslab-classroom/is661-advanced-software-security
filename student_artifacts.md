@@ -23,7 +23,7 @@
 | StateFuzzVis: State-coverage Guided Fuzzer Visualizer | Steve Gustaman | [slide](assignment/2024/proposal-SteveGustaman.pdf) | |
 | Conspicuous Visualizer for Compiler Optimization Fuzzer | 박해준 | [slide](assignment/2024/proposal-HaejoonPark.pdf) | |
 | GeneVis: A Genealogical Visualization Tool for Directed Grey-box Fuzzing | 김태은 | [slide](assignment/2024/proposal-TaeeunKim.pdf) | |
-| Visualizing Fuzzing Status on Def-Use Graph and its impact | 박건 | [slide](assignment/2024/proposal-GeonPark.pdf) | |
+| Visualizing Fuzzing Status on Def-Use Graph and its impact | 박건 | [slide](assignment/2024/proposal-GeonPark.pdf) | [slide](assignment/2024/final-GeonPark.pdf) |
 | QuickBinDiff: Efficient Binary Code Diff Tool Based on Command Line Interface | 윤형준 | [slide](assignment/2024/proposal-HyungjoonYoon.pdf) | |
 | Atten-Scope: A Tool for Interpreting Large Language Model | 이동재 | [slide](assignment/2024/proposal-DongjaeLee.pdf) | [slide](assignment/2024/final-DongjaeLee.pdf) |
 | VisualAI: A Framework for Interactive Abstract Interpretation | 김정현 | [slide](assignment/2024/proposal-Jung_Hyun_Kim.pdf) | |
