@@ -13,20 +13,20 @@
 - [좋은 사람만이 좋은 연구자가 될 수 있다 - 주현민](assignment/2024/hw1-HyunminJu.pdf)
 - [My research - 박상준](assignment/2024/hw1-SangjunPark.pdf)
 
-## Project proposal talk
+## Final project
 
-| Title | Name | Slide |
-|-------|------|-------|
-| CodeFlowVis: Visualizer of Code Coverage and Execution Flow | 장재훈 | [slide](assignment/2024/proposal-JaehoonJang.pdf) |
-| TaintChecker: Tracking the taint propagation on Binary Programs | 박상준 | [slide](assignment/2024/proposal-SangjunPark.pdf)|
-| Visualize Optimization-directed Fuzzing for Effective Optimization Testing | 권재성 | [slide](assignment/2024/proposal-JaeseongKwon.pdf) |
-| StateFuzzVis: State-coverage Guided Fuzzer Visualizer | Steve Gustaman | [slide](assignment/2024/proposal-SteveGustaman.pdf) |
-| Conspicuous Visualizer for Compiler Optimization Fuzzer | 박해준 | [slide](assignment/2024/proposal-HaejoonPark.pdf) |
-| GeneVis: A Genealogical Visualization Tool for Directed Grey-box Fuzzing | 김태은 | [slide](assignment/2024/proposal-TaeeunKim.pdf) |
-| Visualizing Fuzzing Status on Def-Use Graph and its impact | 박건 | [slide](assignment/2024/proposal-GeonPark.pdf) |
-| QuickBinDiff: Efficient Binary Code Diff Tool Based on Command Line Interface | 윤형준 | [slide](assignment/2024/proposal-HyungjoonYoon.pdf) |
-| Atten-Scope: A Tool for Interpreting Large Language Model | 이동재 | [slide](assignment/2024/proposal-DongjaeLee.pdf) |
-| VisualAI: A Framework for Interactive Abstract Interpretation | 김정현 | [slide](assignment/2024/proposal-Jung_Hyun_Kim.pdf) |
+| Title | Name | Proposal | Final presentation |
+|-------|:----:|:--------:|:------------------:|
+| CodeFlowVis: Visualizer of Code Coverage and Execution Flow | 장재훈 | [slide](assignment/2024/proposal-JaehoonJang.pdf) | [slide](assignment/2024/final-JaehoonJang.pdf) |
+| TaintChecker: Tracking the taint propagation on Binary Programs | 박상준 | [slide](assignment/2024/proposal-SangjunPark.pdf)|[slide](assignment/2024/final-SangjunPark.pdf) |
+| Visualize Optimization-directed Fuzzing for Effective Optimization Testing | 권재성 | [slide](assignment/2024/proposal-JaeseongKwon.pdf) | |
+| StateFuzzVis: State-coverage Guided Fuzzer Visualizer | Steve Gustaman | [slide](assignment/2024/proposal-SteveGustaman.pdf) | |
+| Conspicuous Visualizer for Compiler Optimization Fuzzer | 박해준 | [slide](assignment/2024/proposal-HaejoonPark.pdf) | |
+| GeneVis: A Genealogical Visualization Tool for Directed Grey-box Fuzzing | 김태은 | [slide](assignment/2024/proposal-TaeeunKim.pdf) | [slide](assignment/2024/final-TaeeunKim.pdf)|
+| Visualizing Fuzzing Status on Def-Use Graph and its impact | 박건 | [slide](assignment/2024/proposal-GeonPark.pdf) | [slide](assignment/2024/final-GeonPark.pdf) |
+| QuickBinDiff: Efficient Binary Code Diff Tool Based on Command Line Interface | 윤형준 | [slide](assignment/2024/proposal-HyungjoonYoon.pdf) | |
+| Atten-Scope: A Tool for Interpreting Large Language Model | 이동재 | [slide](assignment/2024/proposal-DongjaeLee.pdf) | [slide](assignment/2024/final-DongjaeLee.pdf) |
+| VisualAI: A Framework for Interactive Abstract Interpretation | 김정현 | [slide](assignment/2024/proposal-Jung_Hyun_Kim.pdf) | [slide](assignment/2024/final-Jung_Hyun_Kim.pdf) |
 
 ## Paper presentation
 
@@ -42,13 +42,13 @@
 | Alive2: bounded translation validation for LLVM                                                                                  | 권재성         | [slide](assignment/2024/paper1-JaeseongKwon.pdf) |
 | Optimal Program Synthesis via Abstract Interpretation                                                                            | 박건           | [slide](assignment/2024/paper1-GeonPark.pdf) |
 | Monitor-Guided Decoding of Code LMs with Static Analysis of Repository Context                                                   | 이동재         | [slide](assignment/2024/paper1-DongjaeLee.pdf) |
-| Demanded Abstract Interpretation                                                                                                 | 김정현         |  |
+| Demanded Abstract Interpretation                                                                                                 | 김정현         | [slide](assignment/2024/paper2-Jung_Hyun_Kim.pdf) |
 | Incorrectness logic                                                                                                              | 박해준         |  |
 | DPGen: Automated Program Synthesis for Differential Privacy                                                                      | 박상준         | [slide](assignment/2024/paper2-SangjunPark.pdf) |
 | Towards a Verified Range Analysis for JavaScript JITs                                                                            | Steve Gustaman | [slide](assignment/2024/paper2-SteveGustaman.pdf) |
 | FlashFill++: Scaling Programming by Example by Cutting to the Chase                                                              | 김태은         | [slide](assignment/2024/paper2-TaeeunKim.pdf) |
-| Inductive Synthesis of Structurally Recursive Functional Programs from Non-recursive Expressions                                 | 장재훈         |  |
-| babble: Learning Better Abstractions with E-Graphs and Anti-unification                                                          | 권재성         |  |
+| Inductive Synthesis of Structurally Recursive Functional Programs from Non-recursive Expressions                                 | 장재훈         | [slide](assignment/2024/paper2-JaehoonJang.pdf) |
+| babble: Learning Better Abstractions with E-Graphs and Anti-unification                                                          | 권재성         | [slide](assignment/2024/paper2-JaeseongKwon.pdf) |
 | Data-Driven Synthesis of Provably Sound Side Channel Analyses                                                                    | 윤형준         |  |
-| Optimizing Homomorphic Evaluation Circuits by Program Synthesis and Term Rewriting                                               | 박건           |  |
-| Prompting Is Programming: A Query Language for Large Language Models                                                             | 이동재         |  |
+| Optimizing Homomorphic Evaluation Circuits by Program Synthesis and Term Rewriting                                               | 박건           | [slide](assignment/2024/paper2-GeonPark.pdf) |
+| Prompting Is Programming: A Query Language for Large Language Models                                                             | 이동재         | [slide](assignment/2024/paper2-DongjaeLee.pdf) |
